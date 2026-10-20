@@ -1,0 +1,51 @@
+body_id,year,pmid,search
+esc,2019,31504418,2019 ESC/EAS Guidelines for the management of dyslipidaemias[ti]
+esc,2021,34447992,2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure[ti]
+esc,2020,32860505,2020 ESC Guidelines for the diagnosis and management of atrial fibrillation[ti]
+esc,2018,30165516,2018 ESC/ESH Guidelines for the management of arterial hypertension[ti]
+acc_aha,2013,24222016,2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults[ti]
+acc_aha,2017,30354654,"2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults[ti]"
+acc_aha,2019,30879355,2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease[ti]
+acc_aha,2019,31662037,Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines[ti]
+uspstf,2016,27838723,Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement[ti] AND 2016[dp]
+uspstf,2021,34003218,Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement[ti] AND 2021[dp]
+uspstf,2024,38687503,Screening for Breast Cancer: US Preventive Services Task Force Recommendation Statement[ti] AND 2024[dp]
+ctfphc,2018,30530611,Recommendations on screening for breast cancer in women aged 40-74 years who are not at increased risk for breast cancer[ti]
+nice,2019,31636059,Hypertension in adults: summary of updated NICE guidance[ti]
+who,2020,33239350,World Health Organization 2020 guidelines on physical activity and sedentary behaviour[ti]
+cdc,2016,26987082,"CDC Guideline for Prescribing Opioids for Chronic Pain--United States, 2016[ti]"
+cdc,2021,34292926,"Sexually Transmitted Infections Treatment Guidelines, 2021[ti]"
+idsa,2016,27418577,Management of Adults With Hospital-acquired and Ventilator-associated Pneumonia: 2016 Clinical Practice Guidelines by the Infectious Diseases Society of America and the American Thoracic Society[ti]
+idsa,2018,29462280,Clinical Practice Guidelines for Clostridium difficile Infection in Adults and Children: 2017 Update by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA)[ti]
+idsa,2011,21292654,International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women[ti]
+asco,2017,28759346,Antiemetics: American Society of Clinical Oncology Clinical Practice Guideline Update[ti] AND 2017[dp]
+asco,2018,29442540,Management of Immune-Related Adverse Events in Patients Treated With Immune Checkpoint Inhibitor Therapy: American Society of Clinical Oncology Clinical Practice Guideline[ti]
+esmo,2019,31161190,"Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up[ti] AND 2019[dp]"
+esmo,2016,27380959,ESMO consensus guidelines for the management of patients with metastatic colorectal cancer[ti]
+nccn,2021,33668021,"NCCN Guidelines Insights: Non-Small Cell Lung Cancer, Version 2.2021[ti]"
+kdigo,2021,33637192,KDIGO 2021 Clinical Practice Guideline for the Management of Blood Pressure in Chronic Kidney Disease[ti]
+kdigo,2022,36272764,KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease[ti]
+kdigo,2024,38490803,KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease[ti]
+ats_ers,2011,21471066,An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis: evidence-based guidelines for diagnosis and management[ti]
+ats_ers,2014,24337046,"International ERS/ATS guidelines on definition, evaluation and treatment of severe asthma[ti]"
+chest,2016,26867832,Antithrombotic Therapy for VTE Disease: CHEST Guideline and Expert Panel Report[ti] AND 2016[dp]
+aga,2020,31945371,AGA Clinical Practice Guidelines on the Management of Moderate to Severe Ulcerative Colitis[ti]
+aga,2018,29409760,American Gastroenterological Association Institute Guideline on Initial Management of Acute Pancreatitis[ti]
+acg,2018,29610508,ACG Clinical Guideline: Management of Crohn's Disease in Adults[ti]
+easl,2018,29628281,EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma[ti]
+aasld,2018,28714183,The diagnosis and management of nonalcoholic fatty liver disease: Practice guidance from the American Association for the Study of Liver Diseases[ti]
+aan,2018,30089618,Practice guideline update recommendations summary: Disorders of consciousness[ti]
+aan,2018,29898971,Practice guideline update summary: Efficacy and tolerability of the new antiepileptic drugs I[ti]
+acr_rheum,2021,34101387,2021 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis[ti]
+acr_rheum,2020,32391934,2020 American College of Rheumatology Guideline for the Management of Gout[ti]
+acr_rad,2021,34794594,ACR Appropriateness Criteria Low Back Pain: 2021 Update[ti]
+ada,2024,38078590,Standards of Care in Diabetes-2024 Abridged for Primary Care Professionals[ti]
+ada,2010,20042772,Standards of medical care in diabetes--2010[ti]
+endo,2016,26934393,"The Management of Primary Aldosteronism: Case Detection, Diagnosis, and Treatment: An Endocrine Society Clinical Practice Guideline[ti]"
+acog,2018,29370047,ACOG Practice Bulletin No. 190: Gestational Diabetes Mellitus[ti]
+acog,2020,32443079,"Gestational Hypertension and Preeclampsia: ACOG Practice Bulletin, Number 222[ti]"
+aap,2017,28827377,Clinical Practice Guideline for Screening and Management of High Blood Pressure in Children and Adolescents[ti]
+acp,2017,28192789,"Noninvasive Treatments for Acute, Subacute, and Chronic Low Back Pain: A Clinical Practice Guideline From the American College of Physicians[ti]"
+acp,2018,29507945,Hemoglobin A1c Targets for Glycemic Control With Pharmacologic Therapy for Nonpregnant Adults With Type 2 Diabetes Mellitus: A Guidance Statement Update From the American College of Physicians[ti]
+aua,2021,34384237,Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia: AUA GUIDELINE PART I[ti]
+eau,2017,27568654,"EAU-ESTRO-SIOG Guidelines on Prostate Cancer. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent[ti]"

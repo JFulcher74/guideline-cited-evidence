@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.log
+.DS_Store
+# Plain iCite cache is ignored; its gzipped snapshot (data/raw/f1_guidelines_icite.jsonl.gz) is committed
+data/raw/f1_guidelines_icite.jsonl
+.pytest_cache/
+data/raw/f1_guideline_summaries.jsonl
+data/raw/f2_frame.jsonl
+# NICE evidence-review PDFs (G3 pilot cache)
+data/raw/nice/
+# Main extraction: plain caches ignored, gzipped snapshots committed
+data/raw/extract/*.jsonl
+data/raw/extract/cited_membership.csv
+# Drugs@FDA download (sha256 recorded in data/processed/fda_approvals.csv)
+data/raw/fda/

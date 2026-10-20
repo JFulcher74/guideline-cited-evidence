@@ -1,0 +1,381 @@
+year,stratum,count,date_field,query,retrieved_utc
+1950,total,85773,dp,1950[dp],2026-10-09T19:12:15+00:00
+1950,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1950[dp]",2026-10-09T19:12:16+00:00
+1950,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1950[dp]",2026-10-09T19:12:17+00:00
+1950,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1950[dp]",2026-10-09T19:12:18+00:00
+1950,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1950[dp],2026-10-09T19:12:19+00:00
+1951,total,103833,dp,1951[dp],2026-10-09T19:12:19+00:00
+1951,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1951[dp]",2026-10-09T19:12:20+00:00
+1951,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1951[dp]",2026-10-09T19:12:21+00:00
+1951,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1951[dp]",2026-10-09T19:12:22+00:00
+1951,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1951[dp],2026-10-09T19:12:23+00:00
+1952,total,108168,dp,1952[dp],2026-10-09T19:12:23+00:00
+1952,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1952[dp]",2026-10-09T19:12:24+00:00
+1952,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1952[dp]",2026-10-09T19:12:25+00:00
+1952,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1952[dp]",2026-10-09T19:12:26+00:00
+1952,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1952[dp],2026-10-09T19:12:27+00:00
+1953,total,108934,dp,1953[dp],2026-10-09T19:12:27+00:00
+1953,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1953[dp]",2026-10-09T19:12:28+00:00
+1953,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1953[dp]",2026-10-09T19:12:29+00:00
+1953,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1953[dp]",2026-10-09T19:12:29+00:00
+1953,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1953[dp],2026-10-09T19:12:30+00:00
+1954,total,105941,dp,1954[dp],2026-10-09T19:12:31+00:00
+1954,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1954[dp]",2026-10-09T19:12:32+00:00
+1954,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1954[dp]",2026-10-09T19:12:32+00:00
+1954,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1954[dp]",2026-10-09T19:12:33+00:00
+1954,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1954[dp],2026-10-09T19:12:34+00:00
+1955,total,108559,dp,1955[dp],2026-10-09T19:12:35+00:00
+1955,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1955[dp]",2026-10-09T19:12:35+00:00
+1955,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1955[dp]",2026-10-09T19:12:36+00:00
+1955,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1955[dp]",2026-10-09T19:12:37+00:00
+1955,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1955[dp],2026-10-09T19:12:38+00:00
+1956,total,107014,dp,1956[dp],2026-10-09T19:12:38+00:00
+1956,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1956[dp]",2026-10-09T19:12:39+00:00
+1956,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1956[dp]",2026-10-09T19:12:40+00:00
+1956,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1956[dp]",2026-10-09T19:12:41+00:00
+1956,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1956[dp],2026-10-09T19:12:41+00:00
+1957,total,111522,dp,1957[dp],2026-10-09T19:12:42+00:00
+1957,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1957[dp]",2026-10-09T19:12:43+00:00
+1957,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1957[dp]",2026-10-09T19:12:44+00:00
+1957,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1957[dp]",2026-10-09T19:12:45+00:00
+1957,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1957[dp],2026-10-09T19:12:45+00:00
+1958,total,109468,dp,1958[dp],2026-10-09T19:12:46+00:00
+1958,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1958[dp]",2026-10-09T19:12:47+00:00
+1958,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1958[dp]",2026-10-09T19:12:47+00:00
+1958,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1958[dp]",2026-10-09T19:12:48+00:00
+1958,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1958[dp],2026-10-09T19:12:49+00:00
+1959,total,109994,dp,1959[dp],2026-10-09T19:12:50+00:00
+1959,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1959[dp]",2026-10-09T19:12:50+00:00
+1959,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1959[dp]",2026-10-09T19:12:51+00:00
+1959,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1959[dp]",2026-10-09T19:12:52+00:00
+1959,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1959[dp],2026-10-09T19:12:53+00:00
+1960,total,112216,dp,1960[dp],2026-10-09T19:12:53+00:00
+1960,high_signal,1,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1960[dp]",2026-10-09T19:12:54+00:00
+1960,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1960[dp]",2026-10-09T19:12:55+00:00
+1960,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1960[dp]",2026-10-09T19:12:55+00:00
+1960,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1960[dp],2026-10-09T19:12:56+00:00
+1961,total,120174,dp,1961[dp],2026-10-09T19:12:57+00:00
+1961,high_signal,1,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1961[dp]",2026-10-09T19:12:57+00:00
+1961,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1961[dp]",2026-10-09T19:12:58+00:00
+1961,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1961[dp]",2026-10-09T19:12:59+00:00
+1961,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1961[dp],2026-10-09T19:13:00+00:00
+1962,total,125686,dp,1962[dp],2026-10-09T19:13:00+00:00
+1962,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1962[dp]",2026-10-09T19:13:01+00:00
+1962,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1962[dp]",2026-10-09T19:13:02+00:00
+1962,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1962[dp]",2026-10-09T19:13:03+00:00
+1962,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1962[dp],2026-10-09T19:13:03+00:00
+1963,total,141537,dp,1963[dp],2026-10-09T19:13:04+00:00
+1963,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1963[dp]",2026-10-09T19:13:05+00:00
+1963,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1963[dp]",2026-10-09T19:13:05+00:00
+1963,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1963[dp]",2026-10-09T19:13:06+00:00
+1963,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1963[dp],2026-10-09T19:13:07+00:00
+1964,total,162108,dp,1964[dp],2026-10-09T19:13:08+00:00
+1964,high_signal,0,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1964[dp]",2026-10-09T19:13:08+00:00
+1964,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1964[dp]",2026-10-09T19:13:09+00:00
+1964,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1964[dp]",2026-10-09T19:13:10+00:00
+1964,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1964[dp],2026-10-09T19:13:10+00:00
+1965,total,176729,dp,1965[dp],2026-10-09T19:13:11+00:00
+1965,high_signal,39,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1965[dp]",2026-10-09T19:13:12+00:00
+1965,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1965[dp]",2026-10-09T19:13:13+00:00
+1965,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1965[dp]",2026-10-09T19:13:13+00:00
+1965,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1965[dp],2026-10-09T19:13:14+00:00
+1966,total,180185,dp,1966[dp],2026-10-09T19:13:15+00:00
+1966,high_signal,194,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1966[dp]",2026-10-09T19:13:15+00:00
+1966,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1966[dp]",2026-10-09T19:13:16+00:00
+1966,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1966[dp]",2026-10-09T19:13:17+00:00
+1966,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1966[dp],2026-10-09T19:13:18+00:00
+1967,total,192073,dp,1967[dp],2026-10-09T19:13:18+00:00
+1967,high_signal,217,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1967[dp]",2026-10-09T19:13:19+00:00
+1967,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1967[dp]",2026-10-09T19:13:20+00:00
+1967,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1967[dp]",2026-10-09T19:13:21+00:00
+1967,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1967[dp],2026-10-09T19:13:21+00:00
+1968,total,208155,dp,1968[dp],2026-10-09T19:13:22+00:00
+1968,high_signal,271,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1968[dp]",2026-10-09T19:13:23+00:00
+1968,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1968[dp]",2026-10-09T19:13:23+00:00
+1968,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1968[dp]",2026-10-09T19:13:24+00:00
+1968,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1968[dp],2026-10-09T19:13:25+00:00
+1969,total,215364,dp,1969[dp],2026-10-09T19:13:26+00:00
+1969,high_signal,289,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1969[dp]",2026-10-09T19:13:26+00:00
+1969,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1969[dp]",2026-10-09T19:13:27+00:00
+1969,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1969[dp]",2026-10-09T19:13:28+00:00
+1969,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1969[dp],2026-10-09T19:13:29+00:00
+1970,total,219425,dp,1970[dp],2026-10-09T19:13:29+00:00
+1970,high_signal,355,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1970[dp]",2026-10-09T19:13:30+00:00
+1970,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1970[dp]",2026-10-09T19:13:31+00:00
+1970,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1970[dp]",2026-10-09T19:13:32+00:00
+1970,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1970[dp],2026-10-09T19:13:32+00:00
+1971,total,223658,dp,1971[dp],2026-10-09T19:13:33+00:00
+1971,high_signal,378,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1971[dp]",2026-10-09T19:13:34+00:00
+1971,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1971[dp]",2026-10-09T19:13:35+00:00
+1971,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1971[dp]",2026-10-09T19:13:35+00:00
+1971,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1971[dp],2026-10-09T19:13:36+00:00
+1972,total,227949,dp,1972[dp],2026-10-09T19:13:37+00:00
+1972,high_signal,476,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1972[dp]",2026-10-09T19:13:37+00:00
+1972,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1972[dp]",2026-10-09T19:13:38+00:00
+1972,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1972[dp]",2026-10-09T19:13:39+00:00
+1972,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1972[dp],2026-10-09T19:13:39+00:00
+1973,total,231157,dp,1973[dp],2026-10-09T19:13:40+00:00
+1973,high_signal,569,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1973[dp]",2026-10-09T19:13:41+00:00
+1973,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1973[dp]",2026-10-09T19:13:42+00:00
+1973,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1973[dp]",2026-10-09T19:13:42+00:00
+1973,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1973[dp],2026-10-09T19:13:43+00:00
+1974,total,235131,dp,1974[dp],2026-10-09T19:13:44+00:00
+1974,high_signal,650,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1974[dp]",2026-10-09T19:13:45+00:00
+1974,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1974[dp]",2026-10-09T19:13:46+00:00
+1974,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1974[dp]",2026-10-09T19:13:47+00:00
+1974,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1974[dp],2026-10-09T19:13:48+00:00
+1975,total,249242,dp,1975[dp],2026-10-09T19:13:48+00:00
+1975,high_signal,931,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1975[dp]",2026-10-09T19:13:49+00:00
+1975,high_volume,2,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1975[dp]",2026-10-09T19:13:50+00:00
+1975,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1975[dp]",2026-10-09T19:13:51+00:00
+1975,bibliometric,2,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1975[dp],2026-10-09T19:13:51+00:00
+1976,total,255030,dp,1976[dp],2026-10-09T19:13:52+00:00
+1976,high_signal,1241,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1976[dp]",2026-10-09T19:13:53+00:00
+1976,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1976[dp]",2026-10-09T19:13:54+00:00
+1976,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1976[dp]",2026-10-09T19:13:55+00:00
+1976,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1976[dp],2026-10-09T19:13:55+00:00
+1977,total,262234,dp,1977[dp],2026-10-09T19:13:56+00:00
+1977,high_signal,1248,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1977[dp]",2026-10-09T19:13:57+00:00
+1977,high_volume,3,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1977[dp]",2026-10-09T19:13:58+00:00
+1977,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1977[dp]",2026-10-09T19:13:58+00:00
+1977,bibliometric,3,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1977[dp],2026-10-09T19:13:59+00:00
+1978,total,272609,dp,1978[dp],2026-10-09T19:14:00+00:00
+1978,high_signal,1469,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1978[dp]",2026-10-09T19:14:00+00:00
+1978,high_volume,5,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1978[dp]",2026-10-09T19:14:01+00:00
+1978,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1978[dp]",2026-10-09T19:14:02+00:00
+1978,bibliometric,5,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1978[dp],2026-10-09T19:14:02+00:00
+1979,total,282189,dp,1979[dp],2026-10-09T19:14:03+00:00
+1979,high_signal,1790,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1979[dp]",2026-10-09T19:14:04+00:00
+1979,high_volume,1,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1979[dp]",2026-10-09T19:14:05+00:00
+1979,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1979[dp]",2026-10-09T19:14:05+00:00
+1979,bibliometric,1,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1979[dp],2026-10-09T19:14:06+00:00
+1980,total,280699,dp,1980[dp],2026-10-09T19:14:07+00:00
+1980,high_signal,2073,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1980[dp]",2026-10-09T19:14:07+00:00
+1980,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1980[dp]",2026-10-09T19:14:08+00:00
+1980,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1980[dp]",2026-10-09T19:14:09+00:00
+1980,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1980[dp],2026-10-09T19:14:09+00:00
+1981,total,283695,dp,1981[dp],2026-10-09T19:14:10+00:00
+1981,high_signal,2284,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1981[dp]",2026-10-09T19:14:11+00:00
+1981,high_volume,1,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1981[dp]",2026-10-09T19:14:11+00:00
+1981,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1981[dp]",2026-10-09T19:14:12+00:00
+1981,bibliometric,1,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1981[dp],2026-10-09T19:14:13+00:00
+1982,total,295825,dp,1982[dp],2026-10-09T19:14:14+00:00
+1982,high_signal,2552,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1982[dp]",2026-10-09T19:14:14+00:00
+1982,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1982[dp]",2026-10-09T19:14:15+00:00
+1982,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1982[dp]",2026-10-09T19:14:16+00:00
+1982,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1982[dp],2026-10-09T19:14:17+00:00
+1983,total,309585,dp,1983[dp],2026-10-09T19:14:18+00:00
+1983,high_signal,3055,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1983[dp]",2026-10-09T19:14:18+00:00
+1983,high_volume,5,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1983[dp]",2026-10-09T19:14:19+00:00
+1983,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1983[dp]",2026-10-09T19:14:20+00:00
+1983,bibliometric,5,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1983[dp],2026-10-09T19:14:21+00:00
+1984,total,318317,dp,1984[dp],2026-10-09T19:14:22+00:00
+1984,high_signal,2869,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1984[dp]",2026-10-09T19:14:22+00:00
+1984,high_volume,2,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1984[dp]",2026-10-09T19:14:23+00:00
+1984,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1984[dp]",2026-10-09T19:14:24+00:00
+1984,bibliometric,2,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1984[dp],2026-10-09T19:14:25+00:00
+1985,total,335442,dp,1985[dp],2026-10-09T19:14:25+00:00
+1985,high_signal,3555,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1985[dp]",2026-10-09T19:14:26+00:00
+1985,high_volume,1,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1985[dp]",2026-10-09T19:14:27+00:00
+1985,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1985[dp]",2026-10-09T19:14:28+00:00
+1985,bibliometric,1,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1985[dp],2026-10-09T19:14:29+00:00
+1986,total,349819,dp,1986[dp],2026-10-09T19:14:30+00:00
+1986,high_signal,3912,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1986[dp]",2026-10-09T19:14:30+00:00
+1986,high_volume,0,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1986[dp]",2026-10-09T19:14:31+00:00
+1986,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1986[dp]",2026-10-09T19:14:32+00:00
+1986,bibliometric,0,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1986[dp],2026-10-09T19:14:33+00:00
+1987,total,368059,dp,1987[dp],2026-10-09T19:14:34+00:00
+1987,high_signal,4487,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1987[dp]",2026-10-09T19:14:34+00:00
+1987,high_volume,2,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1987[dp]",2026-10-09T19:14:35+00:00
+1987,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1987[dp]",2026-10-09T19:14:36+00:00
+1987,bibliometric,2,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1987[dp],2026-10-09T19:14:36+00:00
+1988,total,387105,dp,1988[dp],2026-10-09T19:14:37+00:00
+1988,high_signal,4590,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1988[dp]",2026-10-09T19:14:38+00:00
+1988,high_volume,1,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1988[dp]",2026-10-09T19:14:38+00:00
+1988,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1988[dp]",2026-10-09T19:14:39+00:00
+1988,bibliometric,1,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1988[dp],2026-10-09T19:14:40+00:00
+1989,total,402906,dp,1989[dp],2026-10-09T19:14:41+00:00
+1989,high_signal,5715,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1989[dp]",2026-10-09T19:14:41+00:00
+1989,high_volume,6,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1989[dp]",2026-10-09T19:14:42+00:00
+1989,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1989[dp]",2026-10-09T19:14:43+00:00
+1989,bibliometric,6,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1989[dp],2026-10-09T19:14:43+00:00
+1990,total,410999,dp,1990[dp],2026-10-09T19:14:44+00:00
+1990,high_signal,6827,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1990[dp]",2026-10-09T19:14:45+00:00
+1990,high_volume,9,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1990[dp]",2026-10-09T19:14:46+00:00
+1990,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1990[dp]",2026-10-09T19:14:46+00:00
+1990,bibliometric,9,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1990[dp],2026-10-09T19:14:47+00:00
+1991,total,413322,dp,1991[dp],2026-10-09T19:14:48+00:00
+1991,high_signal,7291,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1991[dp]",2026-10-09T19:14:49+00:00
+1991,high_volume,8,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1991[dp]",2026-10-09T19:14:49+00:00
+1991,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1991[dp]",2026-10-09T19:14:50+00:00
+1991,bibliometric,8,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1991[dp],2026-10-09T19:14:51+00:00
+1992,total,418129,dp,1992[dp],2026-10-09T19:14:52+00:00
+1992,high_signal,8055,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1992[dp]",2026-10-09T19:14:52+00:00
+1992,high_volume,13,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1992[dp]",2026-10-09T19:14:53+00:00
+1992,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1992[dp]",2026-10-09T19:14:54+00:00
+1992,bibliometric,13,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1992[dp],2026-10-09T19:14:54+00:00
+1993,total,427788,dp,1993[dp],2026-10-09T19:14:55+00:00
+1993,high_signal,8741,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1993[dp]",2026-10-09T19:14:56+00:00
+1993,high_volume,6,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1993[dp]",2026-10-09T19:14:56+00:00
+1993,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1993[dp]",2026-10-09T19:14:57+00:00
+1993,bibliometric,6,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1993[dp],2026-10-09T19:14:58+00:00
+1994,total,439242,dp,1994[dp],2026-10-09T19:14:59+00:00
+1994,high_signal,10014,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1994[dp]",2026-10-09T19:14:59+00:00
+1994,high_volume,4,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1994[dp]",2026-10-09T19:15:00+00:00
+1994,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1994[dp]",2026-10-09T19:15:01+00:00
+1994,bibliometric,4,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1994[dp],2026-10-09T19:15:02+00:00
+1995,total,449343,dp,1995[dp],2026-10-09T19:15:02+00:00
+1995,high_signal,10865,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1995[dp]",2026-10-09T19:15:03+00:00
+1995,high_volume,11,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1995[dp]",2026-10-09T19:15:04+00:00
+1995,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1995[dp]",2026-10-09T19:15:04+00:00
+1995,bibliometric,11,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1995[dp],2026-10-09T19:15:05+00:00
+1996,total,458817,dp,1996[dp],2026-10-09T19:15:06+00:00
+1996,high_signal,10784,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1996[dp]",2026-10-09T19:15:06+00:00
+1996,high_volume,16,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1996[dp]",2026-10-09T19:15:07+00:00
+1996,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1996[dp]",2026-10-09T19:15:08+00:00
+1996,bibliometric,16,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1996[dp],2026-10-09T19:15:09+00:00
+1997,total,456896,dp,1997[dp],2026-10-09T19:15:10+00:00
+1997,high_signal,11003,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1997[dp]",2026-10-09T19:15:10+00:00
+1997,high_volume,23,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1997[dp]",2026-10-09T19:15:11+00:00
+1997,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1997[dp]",2026-10-09T19:15:12+00:00
+1997,bibliometric,23,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1997[dp],2026-10-09T19:15:12+00:00
+1998,total,474778,dp,1998[dp],2026-10-09T19:15:13+00:00
+1998,high_signal,11464,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1998[dp]",2026-10-09T19:15:14+00:00
+1998,high_volume,12,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1998[dp]",2026-10-09T19:15:14+00:00
+1998,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1998[dp]",2026-10-09T19:15:15+00:00
+1998,bibliometric,12,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1998[dp],2026-10-09T19:15:16+00:00
+1999,total,493927,dp,1999[dp],2026-10-09T19:15:16+00:00
+1999,high_signal,12355,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 1999[dp]",2026-10-09T19:15:17+00:00
+1999,high_volume,29,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 1999[dp]",2026-10-09T19:15:18+00:00
+1999,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 1999[dp]",2026-10-09T19:15:18+00:00
+1999,bibliometric,29,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 1999[dp],2026-10-09T19:15:19+00:00
+2000,total,532637,dp,2000[dp],2026-10-09T19:15:20+00:00
+2000,high_signal,12008,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2000[dp]",2026-10-09T19:15:21+00:00
+2000,high_volume,18,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2000[dp]",2026-10-09T19:15:21+00:00
+2000,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2000[dp]",2026-10-09T19:15:22+00:00
+2000,bibliometric,18,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2000[dp],2026-10-09T19:15:23+00:00
+2001,total,547644,dp,2001[dp],2026-10-09T19:15:23+00:00
+2001,high_signal,12827,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2001[dp]",2026-10-09T19:15:24+00:00
+2001,high_volume,23,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2001[dp]",2026-10-09T19:15:25+00:00
+2001,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2001[dp]",2026-10-09T19:15:26+00:00
+2001,bibliometric,23,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2001[dp],2026-10-09T19:15:26+00:00
+2002,total,565486,dp,2002[dp],2026-10-09T19:15:27+00:00
+2002,high_signal,12986,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2002[dp]",2026-10-09T19:15:28+00:00
+2002,high_volume,30,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2002[dp]",2026-10-09T19:15:29+00:00
+2002,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2002[dp]",2026-10-09T19:15:29+00:00
+2002,bibliometric,30,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2002[dp],2026-10-09T19:15:30+00:00
+2003,total,594602,dp,2003[dp],2026-10-09T19:15:31+00:00
+2003,high_signal,14508,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2003[dp]",2026-10-09T19:15:31+00:00
+2003,high_volume,30,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2003[dp]",2026-10-09T19:15:32+00:00
+2003,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2003[dp]",2026-10-09T19:15:33+00:00
+2003,bibliometric,30,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2003[dp],2026-10-09T19:15:34+00:00
+2004,total,639789,dp,2004[dp],2026-10-09T19:15:34+00:00
+2004,high_signal,16261,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2004[dp]",2026-10-09T19:15:35+00:00
+2004,high_volume,36,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2004[dp]",2026-10-09T19:15:36+00:00
+2004,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2004[dp]",2026-10-09T19:15:37+00:00
+2004,bibliometric,36,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2004[dp],2026-10-09T19:15:37+00:00
+2005,total,700540,dp,2005[dp],2026-10-09T19:15:38+00:00
+2005,high_signal,17294,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2005[dp]",2026-10-09T19:15:39+00:00
+2005,high_volume,55,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2005[dp]",2026-10-09T19:15:40+00:00
+2005,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2005[dp]",2026-10-09T19:15:41+00:00
+2005,bibliometric,55,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2005[dp],2026-10-09T19:15:41+00:00
+2006,total,750397,dp,2006[dp],2026-10-09T19:15:42+00:00
+2006,high_signal,18568,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2006[dp]",2026-10-09T19:15:43+00:00
+2006,high_volume,63,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2006[dp]",2026-10-09T19:15:44+00:00
+2006,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2006[dp]",2026-10-09T19:15:44+00:00
+2006,bibliometric,63,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2006[dp],2026-10-09T19:15:45+00:00
+2007,total,786776,dp,2007[dp],2026-10-09T19:15:46+00:00
+2007,high_signal,20207,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2007[dp]",2026-10-09T19:15:46+00:00
+2007,high_volume,73,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2007[dp]",2026-10-09T19:15:47+00:00
+2007,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2007[dp]",2026-10-09T19:15:48+00:00
+2007,bibliometric,73,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2007[dp],2026-10-09T19:15:48+00:00
+2008,total,837237,dp,2008[dp],2026-10-09T19:15:49+00:00
+2008,high_signal,20778,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2008[dp]",2026-10-09T19:15:50+00:00
+2008,high_volume,79,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2008[dp]",2026-10-09T19:15:51+00:00
+2008,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2008[dp]",2026-10-09T19:15:51+00:00
+2008,bibliometric,79,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2008[dp],2026-10-09T19:15:52+00:00
+2009,total,877684,dp,2009[dp],2026-10-09T19:15:53+00:00
+2009,high_signal,21786,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2009[dp]",2026-10-09T19:15:53+00:00
+2009,high_volume,114,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2009[dp]",2026-10-09T19:15:54+00:00
+2009,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2009[dp]",2026-10-09T19:15:55+00:00
+2009,bibliometric,114,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2009[dp],2026-10-09T19:15:56+00:00
+2010,total,942371,dp,2010[dp],2026-10-09T19:15:56+00:00
+2010,high_signal,23898,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2010[dp]",2026-10-09T19:15:57+00:00
+2010,high_volume,124,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2010[dp]",2026-10-09T19:15:58+00:00
+2010,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2010[dp]",2026-10-09T19:15:59+00:00
+2010,bibliometric,124,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2010[dp],2026-10-09T19:15:59+00:00
+2011,total,1020845,dp,2011[dp],2026-10-09T19:16:00+00:00
+2011,high_signal,26785,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2011[dp]",2026-10-09T19:16:01+00:00
+2011,high_volume,153,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2011[dp]",2026-10-09T19:16:02+00:00
+2011,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2011[dp]",2026-10-09T19:16:02+00:00
+2011,bibliometric,153,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2011[dp],2026-10-09T19:16:03+00:00
+2012,total,1090512,dp,2012[dp],2026-10-09T19:16:04+00:00
+2012,high_signal,28920,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2012[dp]",2026-10-09T19:16:05+00:00
+2012,high_volume,197,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2012[dp]",2026-10-09T19:16:06+00:00
+2012,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2012[dp]",2026-10-09T19:16:06+00:00
+2012,bibliometric,197,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2012[dp],2026-10-09T19:16:07+00:00
+2013,total,1150127,dp,2013[dp],2026-10-09T19:16:08+00:00
+2013,high_signal,31162,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2013[dp]",2026-10-09T19:16:08+00:00
+2013,high_volume,283,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2013[dp]",2026-10-09T19:16:09+00:00
+2013,mr_two_sample,0,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2013[dp]",2026-10-09T19:16:10+00:00
+2013,bibliometric,283,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2013[dp],2026-10-09T19:16:10+00:00
+2014,total,1205919,dp,2014[dp],2026-10-09T19:16:11+00:00
+2014,high_signal,31309,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2014[dp]",2026-10-09T19:16:12+00:00
+2014,high_volume,277,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2014[dp]",2026-10-09T19:16:13+00:00
+2014,mr_two_sample,1,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2014[dp]",2026-10-09T19:16:13+00:00
+2014,bibliometric,276,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2014[dp],2026-10-09T19:16:14+00:00
+2015,total,1258179,dp,2015[dp],2026-10-09T19:16:15+00:00
+2015,high_signal,30920,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2015[dp]",2026-10-09T19:16:16+00:00
+2015,high_volume,368,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2015[dp]",2026-10-09T19:16:16+00:00
+2015,mr_two_sample,2,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2015[dp]",2026-10-09T19:16:17+00:00
+2015,bibliometric,366,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2015[dp],2026-10-09T19:16:18+00:00
+2016,total,1285555,dp,2016[dp],2026-10-09T19:16:18+00:00
+2016,high_signal,30216,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2016[dp]",2026-10-09T19:16:19+00:00
+2016,high_volume,443,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2016[dp]",2026-10-09T19:16:20+00:00
+2016,mr_two_sample,15,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2016[dp]",2026-10-09T19:16:21+00:00
+2016,bibliometric,428,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2016[dp],2026-10-09T19:16:21+00:00
+2017,total,1304375,dp,2017[dp],2026-10-09T19:16:22+00:00
+2017,high_signal,30020,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2017[dp]",2026-10-09T19:16:23+00:00
+2017,high_volume,489,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2017[dp]",2026-10-09T19:16:24+00:00
+2017,mr_two_sample,24,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2017[dp]",2026-10-09T19:16:24+00:00
+2017,bibliometric,465,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2017[dp],2026-10-09T19:16:25+00:00
+2018,total,1351720,dp,2018[dp],2026-10-09T19:16:26+00:00
+2018,high_signal,28513,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2018[dp]",2026-10-09T19:16:26+00:00
+2018,high_volume,626,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2018[dp]",2026-10-09T19:16:27+00:00
+2018,mr_two_sample,43,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2018[dp]",2026-10-09T19:16:28+00:00
+2018,bibliometric,583,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2018[dp],2026-10-09T19:16:29+00:00
+2019,total,1418988,dp,2019[dp],2026-10-09T19:16:29+00:00
+2019,high_signal,27780,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2019[dp]",2026-10-09T19:16:30+00:00
+2019,high_volume,852,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2019[dp]",2026-10-09T19:16:31+00:00
+2019,mr_two_sample,108,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2019[dp]",2026-10-09T19:16:32+00:00
+2019,bibliometric,744,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2019[dp],2026-10-09T19:16:32+00:00
+2020,total,1641226,dp,2020[dp],2026-10-09T19:16:33+00:00
+2020,high_signal,30271,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2020[dp]",2026-10-09T19:16:34+00:00
+2020,high_volume,1400,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2020[dp]",2026-10-09T19:16:34+00:00
+2020,mr_two_sample,217,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2020[dp]",2026-10-09T19:16:35+00:00
+2020,bibliometric,1183,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2020[dp],2026-10-09T19:16:36+00:00
+2021,total,1787562,dp,2021[dp],2026-10-09T19:16:37+00:00
+2021,high_signal,31282,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2021[dp]",2026-10-09T19:16:37+00:00
+2021,high_volume,2211,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2021[dp]",2026-10-09T19:16:38+00:00
+2021,mr_two_sample,423,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2021[dp]",2026-10-09T19:16:39+00:00
+2021,bibliometric,1788,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2021[dp],2026-10-09T19:16:40+00:00
+2022,total,1783568,dp,2022[dp],2026-10-09T19:16:40+00:00
+2022,high_signal,29996,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2022[dp]",2026-10-09T19:16:41+00:00
+2022,high_volume,3548,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2022[dp]",2026-10-09T19:16:42+00:00
+2022,mr_two_sample,654,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2022[dp]",2026-10-09T19:16:42+00:00
+2022,bibliometric,2894,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2022[dp],2026-10-09T19:16:43+00:00
+2023,total,1697547,dp,2023[dp],2026-10-09T19:16:45+00:00
+2023,high_signal,27060,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2023[dp]",2026-10-09T19:16:45+00:00
+2023,high_volume,4684,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2023[dp]",2026-10-09T19:16:46+00:00
+2023,mr_two_sample,1376,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2023[dp]",2026-10-09T19:16:47+00:00
+2023,bibliometric,3308,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2023[dp],2026-10-09T19:16:48+00:00
+2024,total,1739997,dp,2024[dp],2026-10-09T19:16:48+00:00
+2024,high_signal,29726,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2024[dp]",2026-10-09T19:16:49+00:00
+2024,high_volume,7073,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2024[dp]",2026-10-09T19:16:50+00:00
+2024,mr_two_sample,3032,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2024[dp]",2026-10-09T19:16:51+00:00
+2024,bibliometric,4042,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2024[dp],2026-10-09T19:16:52+00:00
+2025,total,1882002,dp,2025[dp],2026-10-09T19:16:52+00:00
+2025,high_signal,33279,dp,"(""Randomized Controlled Trial""[pt] OR ""Clinical Trial, Phase III""[pt] OR ""Practice Guideline""[pt]) AND 2025[dp]",2026-10-09T19:16:53+00:00
+2025,high_volume,7231,dp,"(((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) OR (bibliometric*[tiab] OR scientometric*[tiab])) AND 2025[dp]",2026-10-09T19:16:54+00:00
+2025,mr_two_sample,2698,dp,"((""two-sample""[tiab] OR ""two sample""[tiab]) AND (Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))) AND 2025[dp]",2026-10-09T19:16:55+00:00
+2025,bibliometric,4537,dp,(bibliometric*[tiab] OR scientometric*[tiab]) AND 2025[dp],2026-10-09T19:16:56+00:00

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Is guideline-cited evidence keeping pace with the biomedical literature? A cohort analysis, 2008–2025 (protocol, code and data)"
+authors:
+  - family-names: Fulcher
+    given-names: Jordan
+    affiliation: "Independent researcher, UK"
+    orcid: "https://orcid.org/0009-0001-6294-1127"
+    email: jfulcherresearch@gmail.com
+date-released: 2026-10-20
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/VN9BQ
+    description: "OSF pre-registration"
+keywords:
+  - meta-research
+  - clinical practice guidelines
+  - bibliometrics
+  - research waste

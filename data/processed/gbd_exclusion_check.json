@@ -1,0 +1,644 @@
+{
+ "n_excluded_total": 794,
+ "precision_sample": [
+  {
+   "pmid": 24661272,
+   "title": "The global epidemiology and burden of opioid dependence: results from the global burden of disease 2010 study.",
+   "journal": "Addiction",
+   "pubdate": "2014 Aug",
+   "first_author": "Degenhardt L",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 24947899,
+   "title": "Global Burden of Severe Tooth Loss: A Systematic Review and Meta-analysis.",
+   "journal": "J Dent Res",
+   "pubdate": "2014 Jul",
+   "first_author": "Kassebaum NJ",
+   "collective_authors": "",
+   "pmcid": "PMC4293725"
+  },
+  {
+   "pmid": 25534496,
+   "title": "A heavy burden on young minds: the global burden of mental and substance use disorders in children and youth.",
+   "journal": "Psychol Med",
+   "pubdate": "2015 May",
+   "first_author": "Erskine HE",
+   "collective_authors": "",
+   "pmcid": "PMC5922255"
+  },
+  {
+   "pmid": 27510511,
+   "title": "Physical activity and risk of breast cancer, colon cancer, diabetes, ischemic heart disease, and ischemic stroke events: systematic review and dose-response meta-analysis for the Global Burden of Disease Study 2013.",
+   "journal": "BMJ",
+   "pubdate": "2016 Aug 9",
+   "first_author": "Kyu HH",
+   "collective_authors": "",
+   "pmcid": "PMC4979358"
+  },
+  {
+   "pmid": 28249066,
+   "title": "Global Skin Disease Morbidity and Mortality: An Update From the Global Burden of Disease Study 2013.",
+   "journal": "JAMA Dermatol",
+   "pubdate": "2017 May 1",
+   "first_author": "Karimkhani C",
+   "collective_authors": "",
+   "pmcid": "PMC5817488"
+  },
+  {
+   "pmid": 28658372,
+   "title": "Leading causes of child mortality in Brazil, in 1990 and 2015: estimates from the Global Burden of Disease study.",
+   "journal": "Rev Bras Epidemiol",
+   "pubdate": "2017 May",
+   "first_author": "Fran\u00e7a EB",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 28658375,
+   "title": "The burden of diabetes and hyperglycemia in Brazil and its states: findings from the Global Burden of Disease Study 2015.",
+   "journal": "Rev Bras Epidemiol",
+   "pubdate": "2017 May",
+   "first_author": "Duncan BB",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 28658383,
+   "title": "The Burden of disease attributable to mental and substance use disorders in Brazil: Global Burden of Disease Study, 1990 and 2015.",
+   "journal": "Rev Bras Epidemiol",
+   "pubdate": "2017 May",
+   "first_author": "Bonadiman CSC",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 28732542,
+   "title": "National disability-adjusted life years (DALYs) for 257 diseases and injuries in Ethiopia, 1990-2015: findings from the global burden of disease study 2015.",
+   "journal": "Popul Health Metr",
+   "pubdate": "2017 Jul 21",
+   "first_author": "Misganaw A",
+   "collective_authors": "",
+   "pmcid": "PMC5521136"
+  },
+  {
+   "pmid": 28776242,
+   "title": "Neonatal, infant, and under-5 mortality and morbidity burden in the Eastern Mediterranean region: findings from the Global Burden of Disease 2015 study.",
+   "journal": "Int J Public Health",
+   "pubdate": "2018 May",
+   "first_author": "",
+   "collective_authors": "GBD 2015 Eastern Mediterranean Region Neonatal, Infant, and under-5 Mortality Collaborators",
+   "pmcid": "PMC5702263"
+  },
+  {
+   "pmid": 29641820,
+   "title": "The Burden of Cardiovascular Diseases Among US States, 1990-2016.",
+   "journal": "JAMA Cardiol",
+   "pubdate": "2018 May 1",
+   "first_author": "Roth GA",
+   "collective_authors": "Global Burden of Cardiovascular Diseases Collaboration",
+   "pmcid": "PMC6145754"
+  },
+  {
+   "pmid": 30082050,
+   "title": "The Global Nutrient Database: availability of macronutrients and micronutrients in 195 countries from 1980 to 2013.",
+   "journal": "Lancet Planet Health",
+   "pubdate": "2018 Aug",
+   "first_author": "Schmidhuber J",
+   "collective_authors": "",
+   "pmcid": "PMC6076406"
+  },
+  {
+   "pmid": 30119008,
+   "title": "Global estimation of exposure to fine particulate matter (PM(2.5)) from household air pollution.",
+   "journal": "Environ Int",
+   "pubdate": "2018 Nov",
+   "first_author": "Shupler M",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 30287051,
+   "title": "Global, regional, and national burden of Parkinson's disease, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.",
+   "journal": "Lancet Neurol",
+   "pubdate": "2018 Nov",
+   "first_author": "",
+   "collective_authors": "GBD 2016 Parkinson's Disease Collaborators",
+   "pmcid": "PMC6191528"
+  },
+  {
+   "pmid": 30482677,
+   "title": "Health disparities across the counties of Kenya and implications for policy makers, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.",
+   "journal": "Lancet Glob Health",
+   "pubdate": "2019 Jan",
+   "first_author": "Achoki T",
+   "collective_authors": "",
+   "pmcid": "PMC6293072"
+  },
+  {
+   "pmid": 30496107,
+   "title": "Measuring progress from 1990 to 2017 and projecting attainment to 2030 of the health-related Sustainable Development Goals for 195 countries and territories: a systematic analysis for the Global Burden of Disease Study 2017.",
+   "journal": "Lancet",
+   "pubdate": "2018 Nov 10",
+   "first_author": "",
+   "collective_authors": "GBD 2017 SDG Collaborators",
+   "pmcid": "PMC6227911"
+  },
+  {
+   "pmid": 30575491,
+   "title": "Global, Regional, and Country-Specific Lifetime Risks of Stroke, 1990 and 2016.",
+   "journal": "N Engl J Med",
+   "pubdate": "2018 Dec 20",
+   "first_author": "Feigin VL",
+   "collective_authors": "GBD 2016 Lifetime Risk of Stroke Collaborators",
+   "pmcid": "PMC6247346"
+  },
+  {
+   "pmid": 30646390,
+   "title": "Changes in the US Burden of Chronic Kidney Disease From 2002 to 2016: An Analysis of the Global Burden of Disease Study.",
+   "journal": "JAMA Netw Open",
+   "pubdate": "2018 Nov 2",
+   "first_author": "Bowe B",
+   "collective_authors": "",
+   "pmcid": "PMC6324659"
+  },
+  {
+   "pmid": 31204675,
+   "title": "Alcohol and the global burden of disease - Authors' reply.",
+   "journal": "Lancet",
+   "pubdate": "2019 Jun 15",
+   "first_author": "Griswold M",
+   "collective_authors": "GBD 2016 Alcohol Collaborators",
+   "pmcid": ""
+  },
+  {
+   "pmid": 31371206,
+   "title": "The global burden of childhood and adolescent cancer in 2017: an analysis of the Global Burden of Disease Study 2017.",
+   "journal": "Lancet Oncol",
+   "pubdate": "2019 Sep",
+   "first_author": "",
+   "collective_authors": "GBD 2017 Childhood Cancer Collaborators",
+   "pmcid": "PMC6722045"
+  },
+  {
+   "pmid": 31562022,
+   "title": "The global burden of non-typhoidal salmonella invasive disease: a systematic analysis for the Global Burden of Disease Study 2017.",
+   "journal": "Lancet Infect Dis",
+   "pubdate": "2019 Dec",
+   "first_author": "",
+   "collective_authors": "GBD 2017 Non-Typhoidal Salmonella Invasive Disease Collaborators",
+   "pmcid": "PMC6892270"
+  },
+  {
+   "pmid": 31648972,
+   "title": "The global, regional, and national burden of pancreatic cancer and its attributable risk factors in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017.",
+   "journal": "Lancet Gastroenterol Hepatol",
+   "pubdate": "2019 Dec",
+   "first_author": "",
+   "collective_authors": "GBD 2017 Pancreatic Cancer Collaborators",
+   "pmcid": "PMC7026711"
+  },
+  {
+   "pmid": 32079663,
+   "title": "The burden of unintentional drowning: global, regional and national estimates of mortality from the Global Burden of Disease 2017 Study.",
+   "journal": "Inj Prev",
+   "pubdate": "2020 Oct",
+   "first_author": "Franklin RC",
+   "collective_authors": "",
+   "pmcid": "PMC7571364"
+  },
+  {
+   "pmid": 32087171,
+   "title": "Burden of disease in francophone Africa, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017.",
+   "journal": "Lancet Glob Health",
+   "pubdate": "2020 Mar",
+   "first_author": "El Bcheraoui C",
+   "collective_authors": "",
+   "pmcid": "PMC7034333"
+  },
+  {
+   "pmid": 32492163,
+   "title": "Association of Specific Mental Disorders With Premature Mortality in the Danish Population Using Alternative Measurement Methods.",
+   "journal": "JAMA Netw Open",
+   "pubdate": "2020 Jun 1",
+   "first_author": "Weye N",
+   "collective_authors": "",
+   "pmcid": "PMC7272122"
+  },
+  {
+   "pmid": 32993660,
+   "title": "Trends in prevalence and mortality burden attributable to smoking, Brazil and federated units, 1990 and 2017.",
+   "journal": "Popul Health Metr",
+   "pubdate": "2020 Sep 30",
+   "first_author": "Malta DC",
+   "collective_authors": "",
+   "pmcid": "PMC7526090"
+  },
+  {
+   "pmid": 32993670,
+   "title": "Depressive disorders in Brazil: results from the Global Burden of Disease Study 2017.",
+   "journal": "Popul Health Metr",
+   "pubdate": "2020 Sep 30",
+   "first_author": "Bonadiman CSC",
+   "collective_authors": "",
+   "pmcid": "PMC7526360"
+  },
+  {
+   "pmid": 32993680,
+   "title": "The burden of diabetes and hyperglycemia in Brazil: a global burden of disease study 2017.",
+   "journal": "Popul Health Metr",
+   "pubdate": "2020 Sep 30",
+   "first_author": "Duncan BB",
+   "collective_authors": "",
+   "pmcid": "PMC7526086"
+  },
+  {
+   "pmid": 34631130,
+   "title": "Changes in body mass index, obesity, and overweight in Southern Africa development countries, 1990 to 2019: Findings from the Global Burden of Disease, Injuries, and Risk Factors Study.",
+   "journal": "Obes Sci Pract",
+   "pubdate": "2021 Oct",
+   "first_author": "Gona PN",
+   "collective_authors": "",
+   "pmcid": "PMC8488455"
+  },
+  {
+   "pmid": 34687750,
+   "title": "Designing health impact functions to assess marginal changes in outdoor fine particulate matter.",
+   "journal": "Environ Res",
+   "pubdate": "2022 Mar",
+   "first_author": "Burnett RT",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 35294898,
+   "title": "Progress in health among regions of Ethiopia, 1990-2019: a subnational country analysis for the Global Burden of Disease Study 2019.",
+   "journal": "Lancet",
+   "pubdate": "2022 Apr 2",
+   "first_author": "",
+   "collective_authors": "GBD 2019 Ethiopia Subnational-Level Disease Burden Initiative Collaborators",
+   "pmcid": "PMC8987934"
+  },
+  {
+   "pmid": 35506069,
+   "title": "Prevalence, incidence, and survival of pulmonary arterial hypertension: A systematic review for the global burden of disease 2020 study.",
+   "journal": "Pulm Circ",
+   "pubdate": "2022 Jan",
+   "first_author": "Emmons-Bell S",
+   "collective_authors": "",
+   "pmcid": "PMC9052982"
+  },
+  {
+   "pmid": 36209761,
+   "title": "Assessing performance of the Healthcare Access and Quality Index, overall and by select age groups, for 204 countries and territories, 1990-2019: a systematic analysis from the Global Burden of Disease Study 2019.",
+   "journal": "Lancet Glob Health",
+   "pubdate": "2022 Dec",
+   "first_author": "",
+   "collective_authors": "GBD 2019 Healthcare Access and Quality Collaborators",
+   "pmcid": "PMC9666426"
+  },
+  {
+   "pmid": 36844919,
+   "title": "Burden of tracheal, bronchus, and lung cancer in North Africa and Middle East countries, 1990 to 2019: Results from the GBD study 2019.",
+   "journal": "Front Oncol",
+   "pubdate": "2022",
+   "first_author": "Khanmohammadi S",
+   "collective_authors": "GBD 2019 NAME Tracheal, Bronchus and Lung Cancer Collaborators",
+   "pmcid": "PMC9951096"
+  },
+  {
+   "pmid": 37322543,
+   "title": "Correction to: National and subnational burden of female and male breast cancer and risk factors in Iran from 1990 to 2019: results from the Global Burden of Disease study 2019.",
+   "journal": "Breast Cancer Res",
+   "pubdate": "2023 Jun 15",
+   "first_author": "Aryannejad A",
+   "collective_authors": "GBD 2019 Iran Breast Cancer Collaborators",
+   "pmcid": "PMC10273695"
+  },
+  {
+   "pmid": 37425503,
+   "title": "The EAT-Lancet Commission's Planetary Health Diet Compared With the Institute for Health Metrics and Evaluation Global Burden of Disease Ecological Data Analysis.",
+   "journal": "Cureus",
+   "pubdate": "2023 Jun",
+   "first_author": "Cundiff DK",
+   "collective_authors": "",
+   "pmcid": "PMC10325883"
+  },
+  {
+   "pmid": 37633679,
+   "title": "Hepatitis B and C in Europe: an update from the Global Burden of Disease Study 2019.",
+   "journal": "Lancet Public Health",
+   "pubdate": "2023 Sep",
+   "first_author": "",
+   "collective_authors": "GBD 2019 Europe Hepatitis B & C Collaborators",
+   "pmcid": "PMC11138131"
+  },
+  {
+   "pmid": 37676656,
+   "title": "The Global, Regional, and National Burden of Adult Lip, Oral, and Pharyngeal Cancer in 204 Countries and Territories: A Systematic Analysis for the Global Burden of Disease Study 2019.",
+   "journal": "JAMA Oncol",
+   "pubdate": "2023 Oct 1",
+   "first_author": "Cunha ARD",
+   "collective_authors": "GBD 2019 Lip, Oral, and Pharyngeal Cancer Collaborators",
+   "pmcid": "PMC10485745"
+  },
+  {
+   "pmid": 38642570,
+   "title": "Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.",
+   "journal": "Lancet",
+   "pubdate": "2024 May 18",
+   "first_author": "",
+   "collective_authors": "GBD 2021 Diseases and Injuries Collaborators",
+   "pmcid": "PMC11122111"
+  },
+  {
+   "pmid": 38902642,
+   "title": "Impact of the 2008 economic crisis on the burden of hepatitis B and C diseases in Southern European countries.",
+   "journal": "BMC Public Health",
+   "pubdate": "2024 Jun 20",
+   "first_author": "Palladino C",
+   "collective_authors": "GBD 2019 Southern Europe Hepatitis B & C Collaborators",
+   "pmcid": "PMC11188182"
+  },
+  {
+   "pmid": 39154589,
+   "title": "Performance evaluation of Mexico's health system at the national and subnational level, 1990-2019: an analysis of the Health Access and Quality Index.",
+   "journal": "Public Health",
+   "pubdate": "2024 Nov",
+   "first_author": "Gutierrez JP",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 39265593,
+   "title": "Global, regional, and national burden of upper respiratory infections and otitis media, 1990-2021: a systematic analysis from the Global Burden of Disease Study 2021.",
+   "journal": "Lancet Infect Dis",
+   "pubdate": "2025 Jan",
+   "first_author": "",
+   "collective_authors": "GBD 2021 Upper Respiratory Infections Otitis Media Collaborators",
+   "pmcid": "PMC11680489"
+  },
+  {
+   "pmid": 39520735,
+   "title": "Burden of disease attributable to risk factors: Estimates of the Global Burden of Disease from 1990 to 2021.",
+   "journal": "Public Health",
+   "pubdate": "2024 Dec",
+   "first_author": "Malta DC",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 39645376,
+   "title": "The burden of diseases, injuries, and risk factors by state in the USA, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021.",
+   "journal": "Lancet",
+   "pubdate": "2024 Dec 7",
+   "first_author": "",
+   "collective_authors": "GBD 2021 US Burden of Disease Collaborators",
+   "pmcid": "PMC11694014"
+  },
+  {
+   "pmid": 39689276,
+   "title": "Global Burden of Disease from Environmental Factors.",
+   "journal": "Annu Rev Public Health",
+   "pubdate": "2025 Apr",
+   "first_author": "Clark SN",
+   "collective_authors": "",
+   "pmcid": "PMC13237490"
+  },
+  {
+   "pmid": 40049186,
+   "title": "Global, regional, and national prevalence of adult overweight and obesity, 1990-2021, with forecasts to 2050: a forecasting study for the Global Burden of Disease Study 2021.",
+   "journal": "Lancet",
+   "pubdate": "2025 Mar 8",
+   "first_author": "",
+   "collective_authors": "GBD 2021 Adult BMI Collaborators",
+   "pmcid": "PMC11920007"
+  },
+  {
+   "pmid": 40122087,
+   "title": "Three decades of population health changes in Japan, 1990-2021: a subnational analysis for the Global Burden of Disease Study 2021.",
+   "journal": "Lancet Public Health",
+   "pubdate": "2025 Apr",
+   "first_author": "",
+   "collective_authors": "GBD 2021 Japan Collaborators",
+   "pmcid": "PMC11959113"
+  },
+  {
+   "pmid": 40669954,
+   "title": "The Global Syndemic of Modifiable Cardiovascular Risk Factors Projected From 2025 to 2050.",
+   "journal": "J Am Coll Cardiol",
+   "pubdate": "2025 Jul 22",
+   "first_author": "Chong B",
+   "collective_authors": "",
+   "pmcid": "PMC12718409"
+  },
+  {
+   "pmid": 41814008,
+   "title": "Author Correction: Global, regional, and national burden of chronic respiratory diseases and impact of the COVID-19 pandemic, 1990-2023: a Global Burden of Disease study.",
+   "journal": "Nat Med",
+   "pubdate": "2026 Mar",
+   "first_author": "Oh J",
+   "collective_authors": "GBD 2023 Global Chronic Respiratory Disease and Covid Collaborators",
+   "pmcid": ""
+  },
+  {
+   "pmid": 42564808,
+   "title": "National and subnational burden of mental disorders in China, 1990-2023: a systematic analysis of the Global Burden of Disease Study 2023.",
+   "journal": "Lancet Reg Health West Pac",
+   "pubdate": "2026 Aug",
+   "first_author": "Li Y",
+   "collective_authors": "",
+   "pmcid": "PMC13445524"
+  }
+ ],
+ "pool": {
+  "open_guidelines": 939,
+  "cited": 80315,
+  "gbd_text": 52,
+  "gbd_kept": 20,
+  "selected_new": 73
+ },
+ "gbd_kept_records": [
+  {
+   "pmid": 14604927,
+   "title": "Use of injections in healthcare settings worldwide, 2000: literature review and regional estimates.",
+   "journal": "BMJ",
+   "pubdate": "2003 Nov 8",
+   "first_author": "Hutin YJ",
+   "collective_authors": "",
+   "pmcid": "PMC261740"
+  },
+  {
+   "pmid": 15526049,
+   "title": "Distribution of major health risks: findings from the Global Burden of Disease study.",
+   "journal": "PLoS Med",
+   "pubdate": "2004 Oct",
+   "first_author": "Rodgers A",
+   "collective_authors": "Comparative Risk Assessment Collaborating Group",
+   "pmcid": "PMC523844"
+  },
+  {
+   "pmid": 16253886,
+   "title": "The global burden of group A streptococcal diseases.",
+   "journal": "Lancet Infect Dis",
+   "pubdate": "2005 Nov",
+   "first_author": "Carapetis JR",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 16299700,
+   "title": "The global burden of selected occupational diseases and injury risks: Methodology and summary.",
+   "journal": "Am J Ind Med",
+   "pubdate": "2005 Dec",
+   "first_author": "Nelson DI",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 16299703,
+   "title": "The global burden of disease due to occupational carcinogens.",
+   "journal": "Am J Ind Med",
+   "pubdate": "2005 Dec",
+   "first_author": "Driscoll T",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 16299710,
+   "title": "Estimation of the global burden of disease attributable to contaminated sharps injuries among health-care workers.",
+   "journal": "Am J Ind Med",
+   "pubdate": "2005 Dec",
+   "first_author": "Pr\u00fcss-Ust\u00fcn A",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 17676945,
+   "title": "Patient adherence to tuberculosis treatment: a systematic review of qualitative research.",
+   "journal": "PLoS Med",
+   "pubdate": "2007 Jul 24",
+   "first_author": "Munro SA",
+   "collective_authors": "",
+   "pmcid": "PMC1925126"
+  },
+  {
+   "pmid": 19207969,
+   "title": "The global burden of hepatitis C.",
+   "journal": "Liver Int",
+   "pubdate": "2009 Jan",
+   "first_author": "Lavanchy D",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 21082022,
+   "title": "Genome-wide association study of blood pressure extremes identifies variant near UMOD associated with hypertension.",
+   "journal": "PLoS Genet",
+   "pubdate": "2010 Oct 28",
+   "first_author": "Padmanabhan S",
+   "collective_authors": "Global BPgen Consortium",
+   "pmcid": "PMC2965757"
+  },
+  {
+   "pmid": 21652063,
+   "title": "Global burden of disease in young people aged 10-24 years: a systematic analysis.",
+   "journal": "Lancet",
+   "pubdate": "2011 Jun 18",
+   "first_author": "Gore FM",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 23245607,
+   "title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010.",
+   "journal": "Lancet",
+   "pubdate": "2012 Dec 15",
+   "first_author": "Vos T",
+   "collective_authors": "",
+   "pmcid": "PMC6350784"
+  },
+  {
+   "pmid": 23305823,
+   "title": "The global prevalence of dementia: a systematic review and metaanalysis.",
+   "journal": "Alzheimers Dement",
+   "pubdate": "2013 Jan",
+   "first_author": "Prince M",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 23362288,
+   "title": "Safety and effectiveness of a nurse-led outreach program for assessment and treatment of chronic hepatitis C in the custodial setting.",
+   "journal": "Clin Infect Dis",
+   "pubdate": "2013 Apr",
+   "first_author": "Lloyd AR",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 24682278,
+   "title": "Charitable platforms in global surgery: a systematic review of their effectiveness, cost-effectiveness, sustainability, and role training.",
+   "journal": "World J Surg",
+   "pubdate": "2015 Jan",
+   "first_author": "Shrime MG",
+   "collective_authors": "",
+   "pmcid": "PMC4179995"
+  },
+  {
+   "pmid": 25069599,
+   "title": "Global distribution and prevalence of hepatitis C virus genotypes.",
+   "journal": "Hepatology",
+   "pubdate": "2015 Jan",
+   "first_author": "Messina JP",
+   "collective_authors": "",
+   "pmcid": "PMC4303918"
+  },
+  {
+   "pmid": 25432123,
+   "title": "Global and regional burden of infective endocarditis, 1990-2010: a systematic review of the literature.",
+   "journal": "Glob Heart",
+   "pubdate": "2014 Mar",
+   "first_author": "Bin Abdulhak AA",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 25433626,
+   "title": "Tuberculosis in pregnancy: an estimate of the global burden of disease.",
+   "journal": "Lancet Glob Health",
+   "pubdate": "2014 Dec",
+   "first_author": "Sugarman J",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 26704694,
+   "title": "Global burden of oral diseases: emerging concepts, management and interplay with systemic health.",
+   "journal": "Oral Dis",
+   "pubdate": "2016 Oct",
+   "first_author": "Jin LJ",
+   "collective_authors": "",
+   "pmcid": ""
+  },
+  {
+   "pmid": 30226906,
+   "title": "Cardiovascular Disease Epidemiology in Portuguese-Speaking Countries: data from the Global Burden of Disease, 1990 to 2016.",
+   "journal": "Arq Bras Cardiol",
+   "pubdate": "2018 Jun",
+   "first_author": "Nascimento BR",
+   "collective_authors": "",
+   "pmcid": "PMC6023629"
+  },
+  {
+   "pmid": 30365830,
+   "title": "Fiscal austerity measures hamper noncommunicable disease control goals in Brazil.",
+   "journal": "Cien Saude Colet",
+   "pubdate": "2018 Oct",
+   "first_author": "Malta DC",
+   "collective_authors": "",
+   "pmcid": ""
+  }
+ ]
+}

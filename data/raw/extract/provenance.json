@@ -1,0 +1,39 @@
+{
+  "queries": {
+    "F1": "\"Practice Guideline\"[pt] NOT preprint[pt]",
+    "F2_words": "(guideline*[tiab] OR recommendation*[tiab] OR \"consensus statement\"[tiab] OR \"position statement\"[tiab])",
+    "F2_exclude": "(preprint[pt] OR Comment[pt] OR \"Published Erratum\"[pt] OR News[pt])",
+    "D": "\"Journal Article\"[pt] NOT (Comment[pt] OR Editorial[pt] OR Letter[pt] OR News[pt] OR \"Published Erratum\"[pt] OR Guideline[pt] OR \"Practice Guideline\"[pt] OR preprint[pt])",
+    "D_humans": "(\"Journal Article\"[pt] NOT (Comment[pt] OR Editorial[pt] OR Letter[pt] OR News[pt] OR \"Published Erratum\"[pt] OR Guideline[pt] OR \"Practice Guideline\"[pt] OR preprint[pt])) AND Humans[mh]",
+    "D_all": "all[sb] NOT preprint[pt]",
+    "selected": "(((\"two-sample\"[tiab] OR \"two sample\"[tiab]) AND Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab])) OR (bibliometric*[tiab] OR scientometric*[tiab]) OR ((NHANES[tiab] OR \"National Health and Nutrition Examination Survey\"[tiab]) AND (\"cross-sectional\"[tiab] OR \"cross sectional\"[tiab])) OR (\"Global Burden of Disease\"[tiab] NOT (GBD[cn] OR \"Global Burden of Disease\"[cn] OR \"Global Burden of Diseases\"[cn] OR \"Institute for Health Metrics and Evaluation\"[ad])) OR \"network pharmacology\"[tiab] OR ((FAERS[tiab] OR \"Adverse Event Reporting System\"[tiab]) AND disproportionality[tiab]))"
+  },
+  "years": [
+    2008,
+    2025
+  ],
+  "python": "3.13.16",
+  "biopython": "1.88",
+  "stages": {
+    "frames": {
+      "started_utc": "2026-10-19T16:36:04+00:00",
+      "finished_utc": "2026-10-19T16:48:13+00:00"
+    },
+    "guidelines": {
+      "started_utc": "2026-10-19T16:48:13+00:00",
+      "finished_utc": "2026-10-19T16:54:23+00:00"
+    },
+    "cited": {
+      "started_utc": "2026-10-19T16:54:23+00:00",
+      "finished_utc": "2026-10-19T17:29:48+00:00"
+    },
+    "membership": {
+      "started_utc": "2026-10-19T18:53:59+00:00",
+      "finished_utc": "2026-10-19T20:06:37+00:00"
+    },
+    "counts": {
+      "started_utc": "2026-10-19T20:06:37+00:00",
+      "finished_utc": "2026-10-19T20:08:32+00:00"
+    }
+  }
+}

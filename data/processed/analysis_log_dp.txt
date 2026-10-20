@@ -1,0 +1,64 @@
+    stratum     epoch  cagr_start_used  cagr_pct  doubling_years  loglin_ci_lo_pct  loglin_ci_hi_pct
+      total 1980-2000             1980      3.25           21.64              2.78              3.32
+      total 2000-2022             2000      5.64           12.62              5.52              6.06
+      total 2022-2025             2022      1.44           48.38             -7.30             11.21
+      total 2023-2025             2023      5.11           13.90            -13.55             27.81
+high_signal 1980-2000             1980      9.18            7.89              9.22             11.08
+high_signal 2000-2022             2000      4.25           16.66              3.68              5.49
+high_signal 2022-2025             2022      3.52           20.02            -10.95             21.79
+high_signal 2023-2025             2023     10.90            6.70              3.46             18.87
+high_volume 1980-2000             1981     25.60            3.04             17.50             26.83
+high_volume 2000-2022             2000     23.31            3.31             20.16             23.40
+high_volume 2022-2025             2022     37.33            2.18             24.04             55.32
+high_volume 2023-2025             2023     43.99            1.90             -6.66            122.14
+ratio_hv_hs 1980-2000             1981     15.09            4.93              6.68             15.66
+ratio_hv_hs 2000-2022             2000     18.29            4.13             14.17             18.75
+ratio_hv_hs 2022-2025             2022     32.66            2.45             20.59             47.32
+ratio_hv_hs 2023-2025             2023     29.84            2.65            -21.48            114.72
+
+    stratum    window  n  break_year  break_ci_lo  break_ci_hi  boot_share_tau_ge_2021  growth_pre_pct  growth_post_pct  fixed2022_growth_pre_pct  fixed2022_growth_post_pct  aic_estimated  aic_fixed2022  aic_no_break  break_supported
+      total 2000-2025 26        2013         2006         2020                    0.03            6.42             4.32                      5.73                      -0.35        -164.31        -163.19       -149.48             True
+high_signal 2000-2025 26        2013         2012         2014                    0.00            7.53            -0.17                      4.39                      -6.44        -157.77        -100.07        -96.27             True
+high_volume 2000-2025 26        2018         2017         2019                    0.00           19.38            44.56                     22.01                      72.17        -120.99         -79.98        -62.18             True
+ratio_hv_hs 2000-2025 26        2017         2016         2018                    0.00           12.34            43.73                     16.88                      84.02        -108.23         -58.14        -44.06             True
+
+    stratum    window  n  m1_break  m2_break1  m2_break2 m2_break1_ci m2_break2_ci  m2_share_break2_2021_2023  m2_growth_seg1_pct  m2_growth_seg2_pct  m2_growth_seg3_pct  m1plus_break1  m1plus_growth_pre2022_pct  m1plus_growth_post2022_pct   aic_m1   aic_m2  aic_m1plus2022  p_second_break  p_added_2022_break
+      total 2000-2025 26      2013       2012       2022    2005-2018    2011-2023                      0.712               6.374               4.937               1.193           2012                      4.937                       1.193 -164.314 -166.909        -168.909           0.289               0.101
+high_signal 2000-2025 26      2013       2013       2023    2012-2014    2016-2023                      0.914               7.700              -0.742               7.040           2013                     -0.699                       3.016 -157.770 -165.891        -161.189           0.027               0.062
+high_volume 2000-2025 26      2018       2005       2018    2005-2018    2017-2022                      0.064              14.633              20.482              43.400           2019                     57.601                      37.098 -120.988 -125.785        -121.087           0.146               0.323
+ratio_hv_hs 2000-2025 26      2017       2011       2018    2008-2013    2017-2019                      0.003               9.320              19.640              43.122           2017                     46.135                      37.197 -108.235 -129.359        -107.678           0.006               0.509
+
+ baseline    variant     stratum  year   observed  projected     excess  obs_over_proj
+2010-2022  all_years       total  2023 1684347.00 1850352.17 -166005.17           0.91
+2010-2022  all_years       total  2024 1723938.00 1945738.83 -221800.83           0.89
+2010-2022  all_years       total  2025 1861049.00 2046042.73 -184993.73           0.91
+2010-2022  all_years high_signal  2023   27060.00   31283.96   -4223.96           0.86
+2010-2022  all_years high_signal  2024   29726.00   31588.12   -1862.12           0.94
+2010-2022  all_years high_signal  2025   33279.00   31895.24    1383.76           1.04
+2010-2022  all_years high_volume  2023    9545.00    6688.64    2856.36           1.43
+2010-2022  all_years high_volume  2024   14581.00    8453.28    6127.72           1.72
+2010-2022  all_years high_volume  2025   19791.00   10683.48    9107.52           1.85
+2010-2022  all_years ratio_hv_hs  2023       0.35       0.21       0.14           1.65
+2010-2022  all_years ratio_hv_hs  2024       0.49       0.27       0.22           1.83
+2010-2022  all_years ratio_hv_hs  2025       0.59       0.33       0.26           1.78
+2010-2022 excl_covid       total  2023 1684347.00 1779043.66  -94696.66           0.95
+2010-2022 excl_covid       total  2024 1723938.00 1863435.44 -139497.44           0.93
+2010-2022 excl_covid       total  2025 1861049.00 1951830.48  -90781.48           0.95
+2010-2022 excl_covid high_signal  2023   27060.00   31069.79   -4009.79           0.87
+2010-2022 excl_covid high_signal  2024   29726.00   31349.93   -1623.93           0.95
+2010-2022 excl_covid high_signal  2025   33279.00   31632.59    1646.41           1.05
+2010-2022 excl_covid high_volume  2023    9545.00    6261.61    3283.39           1.52
+2010-2022 excl_covid high_volume  2024   14581.00    7860.85    6720.15           1.85
+2010-2022 excl_covid high_volume  2025   19791.00    9868.53    9922.47           2.01
+2010-2022 excl_covid ratio_hv_hs  2023       0.35       0.20       0.15           1.75
+2010-2022 excl_covid ratio_hv_hs  2024       0.49       0.25       0.24           1.96
+2010-2022 excl_covid ratio_hv_hs  2025       0.59       0.31       0.28           1.91
+
+         design_left_out  hv_cagr_2022_last_pct  ratio_2022  ratio_last  ratio_break_year ratio_break_ci ratio_m2_breaks  ratio_p_second_break  ratio_p_added_2022_break
+                  (none)                 37.332       0.255       0.595              2017      2016-2018      2011, 2018                 0.005                     0.525
+            bibliometric                 47.663       0.158       0.460              2017      2016-2018      2009, 2018                 0.010                     0.990
+faers_disproportionality                 36.199       0.249       0.567              2017      2016-2018      2011, 2018                 0.005                     0.465
+           gbd_secondary                 34.549       0.223       0.490              2017      2016-2018      2005, 2017                 0.095                     0.195
+           mr_two_sample                 35.004       0.233       0.517              2017      2016-2018      2011, 2018                 0.010                     0.470
+    network_pharmacology                 38.031       0.186       0.440              2017      2016-2018      2011, 2019                 0.005                     0.930
+  nhanes_cross_sectional                 35.531       0.225       0.504              2016      2015-2017      2009, 2017                 0.010                     0.425
