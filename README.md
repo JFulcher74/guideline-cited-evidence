@@ -70,6 +70,10 @@ Re-running the extraction (`scripts/14_extract.py`, `scripts/24_medline_extract.
 - **The private coding interface** used for the G2 and G4 gates.
 - **Working documents, drafts and correspondence.**
 
+## AI use
+
+Claude Opus 5.5 (Anthropic) was used to support coding and to provide editing support on the manuscript. The author reviewed all outputs and takes full responsibility for the content.
+
 ## Licence
 
 - **Code:** MIT ([`LICENSE`](LICENSE)).

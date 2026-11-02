@@ -162,6 +162,7 @@ The PubMed-indexed literature is growing faster than clinical practice guideline
 - **Author contributions** `[AUTHOR TO CONFIRM]`**:** JF is the sole author and was responsible for conceptualisation, methodology, investigation (including all manual coding for the validation gates), data curation, formal analysis, visualisation, and writing (original draft, review and editing).
 - **Data and code availability:** Analysis code, extraction snapshots, gate data, processed outputs and figures are publicly available at https://github.com/JFulcher74/guideline-cited-evidence `[add the Zenodo DOI after the release is archived]`. The registered protocol is at https://doi.org/10.17605/OSF.IO/VN9BQ. All source data are public (PubMed via NCBI E-utilities; NIH iCite).
 - **Ethics:** not required; the study used only public bibliographic records and involved no human participants.
+- **Use of AI tools:** Claude Opus 5.5 (Anthropic) was used to support coding and to provide editing support on the manuscript. The author reviewed all outputs and takes full responsibility for the content.
 
 ## References
 
