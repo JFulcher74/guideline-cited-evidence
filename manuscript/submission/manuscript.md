@@ -12,6 +12,8 @@
 
 **Reporting guideline:** checklist adapted from RECORD (supplementary file).
 
+**Author contributions:** JF is the sole author and was responsible for conceptualisation, methodology, investigation (including all manual coding for the validation gates), data curation, formal analysis, visualisation, and writing (original draft, review and editing).
+
 ## Abstract
 
 **Background.** Biomedical publication volume grows steadily, but whether research drawn on by clinical practice guidelines keeps pace is unknown. We measured guideline citation of new research as a marker of practice relevance.
@@ -157,12 +159,27 @@ The PubMed-indexed literature is growing faster than clinical practice guideline
 
 ## Statements and declarations
 
-- **Funding:** none.
-- **Competing interests:** none declared.
-- **Author contributions:** JF is the sole author and was responsible for conceptualisation, methodology, investigation (including all manual coding for the validation gates), data curation, formal analysis, visualisation, and writing (original draft, review and editing).
-- **Data and code availability:** Analysis code, extraction snapshots, gate data, processed outputs and figures are publicly available at https://github.com/JFulcher74/guideline-cited-evidence and archived on Zenodo (version 1.0.0: https://doi.org/10.5281/zenodo.23897511; all versions: https://doi.org/10.5281/zenodo.23897510). The registered protocol is at https://doi.org/10.17605/OSF.IO/VN9BQ. All source data are public (PubMed via NCBI E-utilities; NIH iCite).
-- **Ethics:** not required; the study used only public bibliographic records and involved no human participants.
-- **Use of AI tools:** Claude Opus 5.5 (Anthropic) was used to support coding and to provide editing support on the manuscript. The author reviewed all outputs and takes full responsibility for the content.
+### Compliance with Ethical Standards
+
+- **Disclosure of potential conflicts of interest:** The author declares no competing interests.
+- **Research involving human participants and/or animals:** Not applicable. The study used only public bibliographic records.
+- **Informed consent:** Not applicable.
+
+### Funding
+
+No funding was received for this work.
+
+### Author contributions
+
+JF is the sole author and was responsible for conceptualisation, methodology, investigation (including all manual coding for the validation gates), data curation, formal analysis, visualisation, and writing (original draft, review and editing).
+
+### Data availability
+
+Analysis code, extraction snapshots, gate data, processed outputs and figures are publicly available at https://github.com/JFulcher74/guideline-cited-evidence and archived on Zenodo (version 1.0.0: https://doi.org/10.5281/zenodo.23897511; all versions: https://doi.org/10.5281/zenodo.23897510). The registered protocol is at https://doi.org/10.17605/OSF.IO/VN9BQ. All source data are public (PubMed via NCBI E-utilities; NIH iCite).
+
+### Use of AI tools
+
+Claude Opus 5.5 (Anthropic) was used to support coding and to provide editing support on the manuscript. The author reviewed all outputs and takes full responsibility for the content.
 
 ## References
 

@@ -67,6 +67,7 @@ def main() -> None:
     body = section(d, "## 1. Introduction", "## Statements and declarations")
     body = re.sub(r"\n---\n", "\n", body)
     decl = section(d, "## Statements and declarations", "## References")
+    contrib = section(d, "### Author contributions", "### Data availability").split("\n", 1)[1].strip()
     refs = section(d, "## References", "## Figure legends")
     legends = d[d.index("## Figure legends"):]
     abstract_words = words(re.sub(r"\*\*[A-Za-z]+\.\*\*|^\*\*Keywords:.*$", "", abstract, flags=re.M))
@@ -77,7 +78,8 @@ def main() -> None:
                   "**Correspondence:** Jordan Fulcher, jfulcherresearch@gmail.com\n\n"
                   f"**Word count:** abstract {abstract_words}; main text {main_words} (Introduction to Conclusions, excluding tables).\n\n"
                   "**Registration:** OSF, doi:10.17605/OSF.IO/VN9BQ (16 October 2026).\n\n"
-                  "**Reporting guideline:** checklist adapted from RECORD (supplementary file).\n")
+                  "**Reporting guideline:** checklist adapted from RECORD (supplementary file).\n\n"
+                  f"**Author contributions:** {contrib}\n")
     out = "\n".join(clean(x) for x in (title_page, abstract, body, decl, refs, legends))
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "manuscript.md").write_text(out)
