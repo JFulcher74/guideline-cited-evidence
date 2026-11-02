@@ -1,6 +1,7 @@
 """NCBI E-utilities helpers: configuration, retries, PMID search, summaries."""
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
@@ -101,6 +102,16 @@ def fetch_summaries(pmids, *, get_json=None, batch: int = 200, sleep_s: float = 
 GBD_CONSORTIUM_QUERY = ('(GBD[cn] OR "Global Burden of Disease"[cn] OR "Global Burden of Diseases"[cn] '
                         'OR "Institute for Health Metrics and Evaluation"[ad])')
 
+# The six arms of the selected-designs query (protocol §3.5), used only for the descriptive breakdown.
+SELECTED_DESIGN_ARMS = {
+    "two_sample_mr": '(("two-sample"[tiab] OR "two sample"[tiab]) AND Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab]))',
+    "bibliometric": "(bibliometric*[tiab] OR scientometric*[tiab])",
+    "nhanes_cross_sectional": '((NHANES[tiab] OR "National Health and Nutrition Examination Survey"[tiab]) AND ("cross-sectional"[tiab] OR "cross sectional"[tiab]))',
+    "gbd_reanalysis": f'("Global Burden of Disease"[tiab] NOT {GBD_CONSORTIUM_QUERY})',
+    "network_pharmacology": '"network pharmacology"[tiab]',
+    "faers_disproportionality": '((FAERS[tiab] OR "Adverse Event Reporting System"[tiab]) AND disproportionality[tiab])',
+}
+
 # Differs from `high_volume` in 01_extract_pubmed.py (v1 exploratory strata) by the GBD exclusion.
 SELECTED_DESIGNS_QUERY = (
     '((("two-sample"[tiab] OR "two sample"[tiab]) AND Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab])) '
@@ -117,6 +128,31 @@ SELECTED_DESIGNS_QUERY = (
 F2_GUIDELINE_WORDS = ('(guideline*[tiab] OR recommendation*[tiab] OR "consensus statement"[tiab] '
                       'OR "position statement"[tiab])')
 F2_EXCLUDE = '(preprint[pt] OR Comment[pt] OR "Published Erratum"[pt] OR News[pt])'
+
+
+# F2 cleaning rule for the sensitivity analysis (protocol §3.1, added 2026-11-02 before any analysis).
+# Keep a record if it has a guideline publication type or a guideline-type title, unless its
+# publication type is a research, comment or correspondence type, or its title marks it as research
+# about guidelines, commentary, a statement without recommendations, or a withdrawn record.
+F2_CLEAN_KEEP_PT = {"Practice Guideline", "Guideline"}
+F2_CLEAN_DROP_PT = {"Editorial", "Letter", "Comment", "Case Reports", "Comparative Study", "Observational Study",
+                    "Multicenter Study", "Retracted Publication", "Evaluation Study", "Randomized Controlled Trial",
+                    "Clinical Trial", "Published Erratum", "News"}
+F2_CLEAN_TITLE_KEEP = re.compile(
+    r"guideline|recommendation|appropriateness criteria|appropriate use criteria|position on |best practice advice"
+    r"|consensus statement|practice parameter|standards of (medical )?care|task force report|clinical policy", re.I)
+F2_CLEAN_TITLE_DROP = re.compile(
+    r"systematic review for|review of |evolution of|evolution and|registr|validation of|implementing|\bcase\b|trends"
+    r"|after the|since the|fragility|discordance|endorsement|commentary|webinar|summit|ethic|author response|reply"
+    r"|adherence|compliance|withdrawn|q and a|\bq&a\b|era of|impact of|combining|misguided|reconsidering"
+    r"|scientific statement|policy statement|position statement|leveraging|bridging the gap|disparit|mortality", re.I)
+
+
+def f2_clean_keep(title: str, pubtypes) -> bool:
+    pt = set(pubtypes)
+    if pt & F2_CLEAN_DROP_PT or F2_CLEAN_TITLE_DROP.search(title):
+        return False
+    return bool(pt & F2_CLEAN_KEEP_PT) or bool(F2_CLEAN_TITLE_KEEP.search(title))
 
 
 def f2_body_query(rule: str) -> str:

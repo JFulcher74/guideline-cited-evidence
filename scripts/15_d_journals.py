@@ -7,8 +7,10 @@ is D restricted to these journals; its yearly size is counted under [dp] and [ed
 Journals are matched by MEDLINE title abbreviation ([ta]), which equals iCite's `journal` field
 (checked on 200 cited papers, 2026-10-20).
 
-Usage: NCBI_EMAIL=you@example.com python scripts/15_d_journals.py
+Usage: NCBI_EMAIL=you@example.com python scripts/15_d_journals.py [--overlaps]
 Reads data/raw/extract/. Writes data/processed/d_journals_set.csv and d_journals_counts.csv.
+--overlaps instead counts, from the saved journal set, records matching both year Y-1 and Y [dp], so
+the yearly counts can be de-duplicated to the earliest year (writes d_journals_overlaps.csv).
 """
 import random
 import sys
@@ -43,8 +45,23 @@ def ta(j: str) -> str:
     return '"' + j.replace('"', "") + '"[ta]'
 
 
+def overlaps(sleep_s: float) -> None:
+    js = pd.read_csv(OUT_SET)["journal"].tolist()
+    chunks = [js[i:i + CHUNK] for i in range(0, len(js), CHUNK)]
+    rows = []
+    for y in YEARS:
+        n = sum(esearch_count(f"({' OR '.join(map(ta, ch))}) AND ({ncbi.D_QUERY}) AND {y - 1}[dp] AND {y}[dp]", sleep_s)
+                for ch in chunks)
+        rows.append({"later_year": y, "overlap": n})
+        print(f"overlap {y - 1}-{y}: {n}", flush=True)
+    pd.DataFrame(rows).to_csv(OUT_COUNTS.with_name("d_journals_overlaps.csv"), index=False)
+
+
 def main() -> None:
     sleep_s = ncbi.configure_entrez()
+    if "--overlaps" in sys.argv:
+        overlaps(sleep_s)
+        return
     early = {r["pmid"] for f in ("f1", "f2") for r in cache.read_jsonl(EXTRACT / f"frame_{f}.jsonl")
              if r["dp_year"] in SET_YEARS}
     cited = {int(c) for g in cache.read_jsonl(EXTRACT / "guidelines.jsonl") if g["pmid"] in early

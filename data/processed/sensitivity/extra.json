@@ -1,0 +1,98 @@
+{
+  "F1_no_covid_breaks": {
+    "P1": {
+      "n": 12,
+      "break": 2010,
+      "break_ci": [
+        2010,
+        2017
+      ],
+      "growth_pre_pct": -2.0754260325845486,
+      "growth_post_pct": -0.34716262516159,
+      "growth_nobreak_pct": -0.5359562531883855,
+      "aic_break_minus_none": 3.2733051946889713,
+      "p_two_break": 0.465
+    },
+    "ci5": {
+      "n": 12,
+      "break": 2011,
+      "break_ci": [
+        2010,
+        2013
+      ],
+      "growth_pre_pct": -7.73598473078001,
+      "growth_post_pct": -4.032361881495305,
+      "growth_nobreak_pct": -4.795274706404529,
+      "aic_break_minus_none": -4.58626327172664,
+      "p_two_break": 0.166
+    }
+  },
+  "F2_no_covid_breaks": {
+    "P1": {
+      "n": 12,
+      "break": 2013,
+      "break_ci": [
+        2012,
+        2014
+      ],
+      "growth_pre_pct": 4.283391775304102,
+      "growth_post_pct": 0.49949367264645606,
+      "growth_nobreak_pct": 2.1361047543394074,
+      "aic_break_minus_none": -11.311942736410346,
+      "p_two_break": 0.091
+    },
+    "ci5": {
+      "n": 12,
+      "break": 2013,
+      "break_ci": [
+        2010,
+        2017
+      ],
+      "growth_pre_pct": -1.7201500123014357,
+      "growth_post_pct": -2.637535613274211,
+      "growth_nobreak_pct": -2.237638553615562,
+      "aic_break_minus_none": 2.2468602590167692,
+      "p_two_break": 0.105
+    }
+  },
+  "F2_clean_no_covid_breaks": {
+    "P1": {
+      "n": 12,
+      "break": 2013,
+      "break_ci": [
+        2012,
+        2014
+      ],
+      "growth_pre_pct": 4.529253439324421,
+      "growth_post_pct": 0.9191382245587576,
+      "growth_nobreak_pct": 2.4813882271567334,
+      "aic_break_minus_none": -11.276315826329416,
+      "p_two_break": 0.042
+    },
+    "ci5": {
+      "n": 12,
+      "break": 2012,
+      "break_ci": [
+        2010,
+        2017
+      ],
+      "growth_pre_pct": -1.3131878263681673,
+      "growth_post_pct": -2.178675770452232,
+      "growth_nobreak_pct": -1.9071410497974561,
+      "aic_break_minus_none": 2.7383331106356836,
+      "p_two_break": 0.107
+    }
+  },
+  "nice": {
+    "nice_guidelines": 10,
+    "nice_matched_pmids": 2568,
+    "NICE_median_citation_age": 9.0,
+    "NICE_share_age_le5": 0.32010785824345145,
+    "share_of_NICE_cited_also_cited_by_F1": 0.23286604361370716,
+    "F1_2015_2020_median_citation_age": 7.0,
+    "F1_2015_2020_share_age_le5": 0.4122735516834981,
+    "share_of_NICE_cited_also_cited_by_F2": 0.09384735202492211,
+    "F2_2015_2020_median_citation_age": 7.0,
+    "F2_2015_2020_share_age_le5": 0.43303086571138283
+  }
+}

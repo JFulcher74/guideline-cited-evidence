@@ -15,3 +15,7 @@ data/raw/extract/*.jsonl
 data/raw/extract/cited_membership.csv
 # Drugs@FDA download (sha256 recorded in data/processed/fda_approvals.csv)
 data/raw/fda/
+data/raw/extract/f2_pubtypes.jsonl
+data/raw/extract/medline_membership.csv
+# Publisher abstracts used during eligibility coding are not redistributed
+data/gates/*abstracts*.json

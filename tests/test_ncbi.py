@@ -100,3 +100,16 @@ def test_f2_body_query_adds_guideline_words_and_exclusions():
     q = ncbi.f2_body_query('"ESC Scientific Document Group"[cn]')
     assert q.startswith('(("ESC Scientific Document Group"[cn]) AND (guideline*[tiab]')
     assert q.endswith('NOT (preprint[pt] OR Comment[pt] OR "Published Erratum"[pt] OR News[pt])')
+
+
+def test_f2_clean_keep():
+    assert ncbi.f2_clean_keep("2025 ESC Guidelines for the management of myocarditis", ["Journal Article"])
+    assert ncbi.f2_clean_keep("ACR Appropriateness Criteria® Shoulder Pain", ["Journal Article"])
+    assert ncbi.f2_clean_keep("Some title", ["Practice Guideline", "Journal Article"])
+    assert not ncbi.f2_clean_keep("Adherence to the 2016 ESC guidelines in practice", ["Journal Article"])
+    assert not ncbi.f2_clean_keep("WHO guidelines on hepatitis C", ["Editorial"])
+    assert not ncbi.f2_clean_keep("Registry of cardiomyopathy", ["Journal Article"])
+
+
+def test_selected_design_arms_rebuild_the_pooled_query():
+    assert "(" + " OR ".join(ncbi.SELECTED_DESIGN_ARMS.values()) + ")" == ncbi.SELECTED_DESIGNS_QUERY
