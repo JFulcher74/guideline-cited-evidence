@@ -55,6 +55,7 @@ def bullets_to_prose(md: str) -> str:
 def clean(md: str) -> str:
     md = re.sub(r"^> `\[.*?\]`\n?", "", md, flags=re.M)          # author notes
     md = re.sub(r"(^#+ [^\n*]*?) \*\([^)]*\)\*", r"\1", md, flags=re.M)  # heading annotations
+    md = re.sub(r" \*\((?:add volume|No journal version)[^)]*\)\*", "", md)  # notes in reference entries
     md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip() + "\n"
 

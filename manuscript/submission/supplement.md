@@ -1,6 +1,8 @@
-# Supplementary material (v0.3, 2026-11-02)
+# Supplementary material
 
-> Working draft. Material moved out of the main text in v0.2. Numbers come from `results_primary.md`, `results_secondary.md` and `results_sensitivity.md`. Symbols are defined in main-text §2.2: F1 = PubMed-indexed guidelines, F2 = named-body guidelines, D = research literature, P1 = papers cited within 5 years, β = cohort trend, g₁ − g_D = growth gap.
+*Guideline citation and the growth of PubMed: a pre-registered cohort study, 2008–2024.* Jordan Fulcher.
+
+Symbols are defined in main-text §2.2: F1 = PubMed-indexed guidelines, F2 = named-body guidelines, D = research literature, P1 = papers cited within 5 years, β = cohort trend, g₁ − g_D = growth gap. Code and data: https://github.com/JFulcher74/guideline-cited-evidence.
 
 ---
 
@@ -33,7 +35,7 @@
 - Model: logit h = f(a) + β·c + γ·g + δ₁·g·c + δ₂·g·max(0, Y − 2018).
 - In the 2008 cohort these papers were more likely than other research to be cited: γ = 1.02 (0.07 to 1.16) in F1 and 1.53 (1.35 to 1.68) in F2 (log odds ratios).
 - The advantage declined by about 10–13% a year before 2018: δ₁ = −0.13 (−0.17 to −0.02) in F1 and −0.11 (−0.14 to −0.08) in F2.
-- Three-year cumulative-incidence ratio, selected designs ÷ other research, pooled across cohorts (each cohort weighted by its size; `scripts/26_pooled_selected_ratios.py`): 1.41 (F1), 2.60 (F2) and 1.57 (cleaned F2) for the 2008–2017 cohorts, against 0.87, 1.36 and 1.29 for 2018–2022. Geometric means of the cohort ratios are similar (1.50, 2.86, 1.55 against 0.94, 1.49, 1.35). Earlier drafts gave unweighted arithmetic means (1.79 and 3.68 against 0.95 and 1.55), which the small, noisy early cohorts inflated. The selected designs contributed 5,703 papers to the 2008–2017 cohorts and 16,979 to 2018–2022 (Supplementary Figure S2).
+- Three-year cumulative-incidence ratio, selected designs ÷ other research, pooled across cohorts (each cohort weighted by its size; `scripts/26_pooled_selected_ratios.py`): 1.41 (F1), 2.60 (F2) and 1.57 (cleaned F2) for the 2008–2017 cohorts, against 0.87, 1.36 and 1.29 for 2018–2022. Geometric means of the cohort ratios are similar (1.50, 2.86, 1.55 against 0.94, 1.49, 1.35). Unweighted arithmetic means of the cohort ratios (1.79 and 3.68 against 0.95 and 1.55) are inflated by the small, noisy early cohorts and are not used. The selected designs contributed 5,703 papers to the 2008–2017 cohorts and 16,979 to 2018–2022 (Supplementary Figure S2).
 - G4 showed these citations were mostly background (22% evidence for a recommendation). This is not evidence that these designs inform recommendations, nor that individual papers are of low value.
 
 ## S5. A further change after 2022 (H3)
