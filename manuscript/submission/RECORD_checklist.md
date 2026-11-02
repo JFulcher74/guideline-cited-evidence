@@ -1,6 +1,6 @@
 # RECORD checklist (STROBE items plus RECORD extensions)
 
-**Status: draft for the author to verify against the official checklist** (Benchimol et al., *PLoS Med* 2015; record-statement.org) **before submission.** RECORD was written for routinely collected *health* data; it is used here, adapted, for public bibliographic records. Locations refer to the submission manuscript (§ = section) and Supplement (S).
+**Status: draft for the author to verify against the official checklist** (Benchimol et al., *PLoS Med* 2015; record-statement.org) **before submission.** RECORD was written for routinely collected *health* data; it is used here, adapted, for public bibliographic records. Locations refer to the manuscript (§ = section) and Online Resource 1 (S = supplementary section).
 
 The status column says where an item is addressed. It does not certify compliance. "Partly" means the author should decide whether to add more.
 
@@ -46,5 +46,5 @@ The status column says where an item is addressed. It does not certify complianc
 | RECORD 19.1 | Implications of data not created for this question (misclassification, changes in indexing over time) | §4 Limitations (tagging gap, coverage, MEDLINE scope, frame precision) | Yes |
 | 20 | Cautious overall interpretation | §4 | Yes |
 | 21 | Generalisability | §4 (journal-published guidelines only; NICE comparison) | Yes |
-| 22 | Funding | Declarations | Yes |
-| RECORD 22.1 | Access to protocol, raw data and programming code | Declarations (public GitHub repository, Zenodo DOI to add); §2.1 | Yes |
+| 22 | Funding | Statements and Declarations | Yes |
+| RECORD 22.1 | Access to protocol, raw data and programming code | Statements and Declarations (public GitHub repository, Zenodo DOI to add); §2.1 | Yes |

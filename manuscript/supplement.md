@@ -1,6 +1,10 @@
-# Supplementary material
+# Online Resource 1: Supplementary material
 
-*Guideline citation and the growth of PubMed: a pre-registered cohort study, 2008–2024.* Jordan Fulcher.
+**Article:** Guideline citation and the growth of PubMed: a pre-registered cohort study, 2008–2024
+
+**Journal:** *Scientometrics*
+
+**Author:** Jordan Fulcher, independent researcher, Norwich, United Kingdom. Corresponding author: jfulcherresearch@gmail.com
 
 Symbols are defined in main-text §2.2: F1 = PubMed-indexed guidelines, F2 = named-body guidelines, D = research literature, P1 = papers cited within 5 years, β = cohort trend, g₁ − g_D = growth gap. Code and data: https://github.com/JFulcher74/guideline-cited-evidence.
 
@@ -13,7 +17,7 @@ Symbols are defined in main-text §2.2: F1 = PubMed-indexed guidelines, F2 = nam
   - F1 precision 0.895 (95% CI 0.845–0.930; κ 0.61).
   - F2 precision 0.630 (0.532–0.718; κ 0.73), below the 0.80 threshold. F2 is reported with this shortfall stated.
 - **G3 (NICE matching).** 85.5% (83.9–87.0%) of journal-like NICE references matched a PMID; 79.3% of all references.
-- **G4 (citation context).** 100 guideline–citation pairs. 52% (39–65%) of citations to other research papers were evidence for a recommendation, against 22% (13–35%) for selected-design papers (κ 0.38). Supplementary Figure S3.
+- **G4 (citation context).** 100 guideline–citation pairs. 52% (39–65%) of citations to other research papers were evidence for a recommendation, against 22% (13–35%) for selected-design papers (κ 0.38). Fig. S3.
 - **Coverage audit.** Coverage differed by journal and full-text availability, which triggered the stable-coverage-journals sensitivity analysis (S6).
 
 ## S2. Cleaned named-body guidelines (added sensitivity analysis; deviation 1)
@@ -31,7 +35,7 @@ Symbols are defined in main-text §2.2: F1 = PubMed-indexed guidelines, F2 = nam
 
 ## S4. Selected high-volume designs (RQ5)
 
-- Six pre-specified designs that can be produced at scale from public data (e.g. two-sample Mendelian randomisation, NHANES cross-sectional analyses, Global Burden of Disease reanalyses)²⁵⁻²⁷, analysed as one group.
+- Six pre-specified designs that can be produced at scale from public data (e.g. two-sample Mendelian randomisation, NHANES cross-sectional analyses, Global Burden of Disease reanalyses) (Byrne & Stender, 2025; Munafò et al., 2024; Suchak et al., 2025), analysed as one group.
 - Model: logit h = f(a) + β·c + γ·g + δ₁·g·c + δ₂·g·max(0, Y − 2018).
 - In the 2008 cohort these papers were more likely than other research to be cited: γ = 1.02 (0.07 to 1.16) in F1 and 1.53 (1.35 to 1.68) in F2 (log odds ratios).
 - The advantage declined by about 10–13% a year before 2018: δ₁ = −0.13 (−0.17 to −0.02) in F1 and −0.11 (−0.14 to −0.08) in F2.
@@ -168,10 +172,16 @@ All searches used PubMed (NCBI E-utilities). Exact strings, as run; full provena
 
 - **Selected high-volume designs:** `((("two-sample"[tiab] OR "two sample"[tiab]) AND Mendelian[tiab] AND (randomization[tiab] OR randomisation[tiab])) OR (bibliometric*[tiab] OR scientometric*[tiab]) OR ((NHANES[tiab] OR "National Health and Nutrition Examination Survey"[tiab]) AND ("cross-sectional"[tiab] OR "cross sectional"[tiab])) OR ("Global Burden of Disease"[tiab] NOT (GBD[cn] OR "Global Burden of Disease"[cn] OR "Global Burden of Diseases"[cn] OR "Institute for Health Metrics and Evaluation"[ad])) OR "network pharmacology"[tiab] OR ((FAERS[tiab] OR "Adverse Event Reporting System"[tiab]) AND disproportionality[tiab]))`
 
-## Supplementary figure legends
+## Supplementary figures
 
-**Figure S1. Guideline records per year.** The 2022–23 fall in PubMed-indexed guidelines is absent from named-body guidelines, consistent with a change in NLM publication-type tagging.
+![](../figures/main/figS1_guideline_counts.png)
 
-**Figure S2. Selected high-volume designs.** Ratio of 3-year cumulative incidence of first guideline citation, selected designs ÷ other research, by cohort (2008–2022), log scale. Cohorts run to 2022 because the window is 3 years.
+**Fig. S1** Guideline records per publication year, 2008–2025. Circles: PubMed-indexed guidelines (F1). Squares: named-body guidelines (F2). The shaded band marks the 2022–23 fall in PubMed "Practice Guideline" tagging, which is absent from named-body guidelines
 
-**Figure S3. Citation context (G4).** Share of citations that are evidence for a recommendation, selected-design papers against other papers (n = 50 each; Wilson 95% CIs). Intra-rater κ = 0.38.
+![](../figures/main/figS2_selected_ratio.png)
+
+**Fig. S2** Ratio of 3-year cumulative incidence of first guideline citation, selected high-volume designs ÷ other research, by publication cohort (2008–2022; log scale). Circles: PubMed-indexed guidelines. Squares, solid line: named-body guidelines. Triangles, dashed line: the cleaned named-body set. Small open markers: the 2008–2011 cohorts, which contain few selected-design papers. Cohorts run to 2022 because the window is 3 years; the horizontal line marks a ratio of 1
+
+![](../figures/main/figS3_g4_context.png)
+
+**Fig. S3** Share of guideline citations that are evidence for a recommendation, selected-design papers against other research papers (G4 sample of PubMed-indexed guidelines; n = 50 citations per group). Points: estimates; bars: Wilson 95% confidence intervals. Intra-rater κ = 0.38
