@@ -6,6 +6,8 @@ A pre-registered cohort study, 2008–2024.
 
 **Pre-registration:** OSF, 16 October 2026, [doi:10.17605/OSF.IO/VN9BQ](https://doi.org/10.17605/OSF.IO/VN9BQ). The final protocol is in [`manuscript/protocol.md`](manuscript/protocol.md) and in the OSF project [osf.io/hpg6f](https://osf.io/hpg6f).
 
+**Archive:** Zenodo, [doi:10.5281/zenodo.23897510](https://doi.org/10.5281/zenodo.23897510) (all versions; v1.0.0 is [doi:10.5281/zenodo.23897511](https://doi.org/10.5281/zenodo.23897511)).
+
 **Status (November 2026):** analysis complete; manuscript prepared for journal submission. The manuscript and supplement are in [`manuscript/submission/`](manuscript/submission/).
 
 ## The question
