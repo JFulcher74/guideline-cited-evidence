@@ -6,7 +6,7 @@ A pre-registered cohort study, 2008–2024.
 
 **Pre-registration:** OSF, 16 October 2026, [doi:10.17605/OSF.IO/VN9BQ](https://doi.org/10.17605/OSF.IO/VN9BQ). The final protocol is in [`manuscript/protocol.md`](manuscript/protocol.md) and in the OSF project [osf.io/hpg6f](https://osf.io/hpg6f).
 
-**Status (November 2026):** analysis complete; manuscript submitted for peer review. The submitted manuscript and supplement are in [`manuscript/submission/`](manuscript/submission/).
+**Status (November 2026):** analysis complete; manuscript prepared for journal submission. The manuscript and supplement are in [`manuscript/submission/`](manuscript/submission/).
 
 ## The question
 
@@ -31,7 +31,7 @@ It asks two things: how many papers per cohort are cited by a guideline within f
 
 | Path | Contents |
 |---|---|
-| `manuscript/submission/` | Submitted manuscript, supplement and RECORD-adapted checklist |
+| `manuscript/submission/` | Manuscript, supplement and RECORD-adapted checklist (as prepared for submission) |
 | `manuscript/protocol.md` | Full protocol, with a dated record of every decision and gate result |
 | `manuscript/results_*.md` | Generated summaries of the primary, secondary and sensitivity analyses |
 | `manuscript/eligibility_codebook.md` | Codebooks for the G2 eligibility gate and the G4 citation-context gate |
