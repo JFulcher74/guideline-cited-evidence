@@ -19,6 +19,9 @@ identifiers:
   - type: doi
     value: 10.17605/OSF.IO/VN9BQ
     description: "OSF pre-registration"
+  - type: doi
+    value: 10.21203/rs.3.rs-11709754/v1
+    description: "Preprint, Research Square (18 November 2026; submitted to Scientometrics)"
 keywords:
   - meta-research
   - clinical practice guidelines
