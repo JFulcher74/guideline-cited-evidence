@@ -8,7 +8,9 @@ A pre-registered cohort study, 2008–2024.
 
 **Archive:** Zenodo, [doi:10.5281/zenodo.23897510](https://doi.org/10.5281/zenodo.23897510) (all versions; v1.0.0 is [doi:10.5281/zenodo.23897511](https://doi.org/10.5281/zenodo.23897511)).
 
-**Status (November 2026):** analysis complete; manuscript prepared for journal submission. The manuscript and supplement are in [`manuscript/submission/`](manuscript/submission/).
+**Preprint:** Research Square, 18 November 2026, [doi:10.21203/rs.3.rs-11709754/v1](https://doi.org/10.21203/rs.3.rs-11709754/v1). Not peer reviewed.
+
+**Status (November 2026):** submitted to *Scientometrics*; under consideration. The manuscript and supplement, as submitted, are in [`manuscript/submission/`](manuscript/submission/).
 
 ## The question
 
